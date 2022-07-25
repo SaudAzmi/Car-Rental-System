@@ -1,0 +1,300 @@
+{"_id":{"$oid":"55cba2476c522cafdb053add"},"location":{"coordinates":[-73.76571,42.651937],"type":"Point"},"name":"BEAVER BODY & PAINT"}
+{"_id":{"$oid":"55cba2476c522cafdb053ade"},"location":{"coordinates":[-73.773926,42.664997],"type":"Point"},"name":"BILLS AUTO REPAIR"}
+{"_id":{"$oid":"55cba2476c522cafdb053adf"},"location":{"coordinates":[-73.774934,42.665115],"type":"Point"},"name":"BOBS BODY & FENDER"}
+{"_id":{"$oid":"55cba2476c522cafdb053ae0"},"location":{"coordinates":[-73.775101,42.665258],"type":"Point"},"name":"CANNISTRACI AUTO INC"}
+{"_id":{"$oid":"55cba2476c522cafdb053ae1"},"location":{"coordinates":[-73.755736,42.658647],"type":"Point"},"name":"CAR BODY SHOP"}
+{"_id":{"$oid":"55cba2476c522cafdb053ae2"},"location":{"coordinates":[-73.77986,42.675443],"type":"Point"},"name":"COLBY BODY AND"}
+{"_id":{"$oid":"55cba2476c522cafdb053ae3"},"location":{"coordinates":[-73.852588,42.734923],"type":"Point"},"name":"COLES CONCIERGE"}
+{"_id":{"$oid":"55cba2476c522cafdb053ae4"},"location":{"coordinates":[-73.828109,42.713425],"type":"Point"},"name":"COLES CONCIERGE"}
+{"_id":{"$oid":"55cba2476c522cafdb053ae5"},"location":{"coordinates":[-73.778209,42.661466],"type":"Point"},"name":"D&S BODY REPAIR"}
+{"_id":{"$oid":"55cba2476c522cafdb053ae6"},"location":{"coordinates":[-73.778413,42.676918],"type":"Point"},"name":"FRANK FALZO AUTOBODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053ae7"},"location":{"coordinates":[-73.795962,42.634342],"type":"Point"},"name":"HAVILLS AUTOMOTIVE"}
+{"_id":{"$oid":"55cba2476c522cafdb053ae8"},"location":{"coordinates":[-73.848254,42.731117],"type":"Point"},"name":"KNIGHTONS AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053ae9"},"location":{"coordinates":[-73.777804,42.669405],"type":"Point"},"name":"MAACO AUTO PAINTING"}
+{"_id":{"$oid":"55cba2476c522cafdb053aea"},"location":{"coordinates":[-73.805061,42.693221],"type":"Point"},"name":"PAINTWORX COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053aeb"},"location":{"coordinates":[-73.77004,42.66751],"type":"Point"},"name":"QUAIL AUTO SALES"}
+{"_id":{"$oid":"55cba2476c522cafdb053aec"},"location":{"coordinates":[-73.841827,42.714857],"type":"Point"},"name":"SOS TRUCK BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053aed"},"location":{"coordinates":[-73.774745,42.664952],"type":"Point"},"name":"TED VANGALEN BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053aee"},"location":{"coordinates":[-73.838943,42.722924],"type":"Point"},"name":"VILLAGE AUTO BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053aef"},"location":{"coordinates":[-74.023362,42.703548],"type":"Point"},"name":"AUTO COSMETICS OF"}
+{"_id":{"$oid":"55cba2476c522cafdb053af0"},"location":{"coordinates":[-74.123362,42.703548],"type":"Point"},"name":"AUTO COSMETICS OF"}
+{"_id":{"$oid":"55cba2476c522cafdb053af1"},"location":{"coordinates":[-73.944019,42.679156],"type":"Point"},"name":"JAKES TOWING &"}
+{"_id":{"$oid":"55cba2476c522cafdb053af2"},"location":{"coordinates":[-73.713877,42.777881],"type":"Point"},"name":"BAZARS AUTOBODY AND"}
+{"_id":{"$oid":"55cba2476c522cafdb053af3"},"location":{"coordinates":[-73.698547,42.773092],"type":"Point"},"name":"CALIBER COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053af4"},"location":{"coordinates":[-73.704667,42.780821],"type":"Point"},"name":"MENDOZAS AUTO INC"}
+{"_id":{"$oid":"55cba2476c522cafdb053af5"},"location":{"coordinates":[-73.833854,42.718464],"type":"Point"},"name":"CALIBER COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053af6"},"location":{"coordinates":[-73.833854,42.718464],"type":"Point"},"name":"H&V AUTO BODY INC"}
+{"_id":{"$oid":"55cba2476c522cafdb053af7"},"location":{"coordinates":[-73.866162,42.610181],"type":"Point"},"name":"H LOUCKS BODY & FNDR"}
+{"_id":{"$oid":"55cba2476c522cafdb053af8"},"location":{"coordinates":[-73.784389,42.61915],"type":"Point"},"name":"GEIST BROTHERS AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053af9"},"location":{"coordinates":[-73.766646,42.568764],"type":"Point"},"name":"JAMES J GRUMME AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053afa"},"location":{"coordinates":[-73.795521,42.594504],"type":"Point"},"name":"TACS AUTO COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053afb"},"location":{"coordinates":[-73.696477,42.746772],"type":"Point"},"name":"LAZZARO AUTO BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053afc"},"location":{"coordinates":[-73.695795,42.736572],"type":"Point"},"name":"GREEN ISLAND AUTOBDY"}
+{"_id":{"$oid":"55cba2476c522cafdb053afd"},"location":{"coordinates":[-73.809269,42.756175],"type":"Point"},"name":"DAVID J KAISER BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053afe"},"location":{"coordinates":[-73.760297,42.750797],"type":"Point"},"name":"ENSIGN AUTOBODY INC"}
+{"_id":{"$oid":"55cba2476c522cafdb053aff"},"location":{"coordinates":[-73.860297,42.850797],"type":"Point"},"name":"KEELER COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053b00"},"location":{"coordinates":[-73.660297,42.350797],"type":"Point"},"name":"KEELER MOTOR CAR CO"}
+{"_id":{"$oid":"55cba2476c522cafdb053b01"},"location":{"coordinates":[-73.81982,42.487725],"type":"Point"},"name":"FELICIANO BODY WORKS"}
+{"_id":{"$oid":"55cba2476c522cafdb053b02"},"location":{"coordinates":[-73.82982,42.497725],"type":"Point"},"name":"RENSSELAERVILLE BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053b03"},"location":{"coordinates":[-73.946777,42.624855],"type":"Point"},"name":"RT 85 BODYWORKS&"}
+{"_id":{"$oid":"55cba2476c522cafdb053b04"},"location":{"coordinates":[-73.710968,42.707111],"type":"Point"},"name":"DAWSONS BODY SHOP"}
+{"_id":{"$oid":"55cba2476c522cafdb053b05"},"location":{"coordinates":[-73.699745,42.732061],"type":"Point"},"name":"FRANCIS AUTO CENTER"}
+{"_id":{"$oid":"55cba2476c522cafdb053b06"},"location":{"coordinates":[-73.70116,42.722227],"type":"Point"},"name":"MAMONES AUTO BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053b07"},"location":{"coordinates":[-73.700633,42.736239],"type":"Point"},"name":"ROBERTS AUTO BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053b08"},"location":{"coordinates":[-73.71002,42.708351],"type":"Point"},"name":"SCHUYLER AUTO BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053b09"},"location":{"coordinates":[-74.057902,42.546676],"type":"Point"},"name":"MCDERMOTTS GARAGE"}
+{"_id":{"$oid":"55cba2476c522cafdb053b0a"},"location":{"coordinates":[-74.057902,42.456676],"type":"Point"},"name":"MORINS BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053b0b"},"location":{"coordinates":[-74.057902,42.686676],"type":"Point"},"name":"MCGRAWS AUTOBODY &"}
+{"_id":{"$oid":"55cba2476c522cafdb053b0c"},"location":{"coordinates":[-77.751183,42.217166],"type":"Point"},"name":"CANNONS GARAGE INC"}
+{"_id":{"$oid":"55cba2476c522cafdb053b0d"},"location":{"coordinates":[-78.032642,42.228123],"type":"Point"},"name":"CS COLLISION &"}
+{"_id":{"$oid":"55cba2476c522cafdb053b0e"},"location":{"coordinates":[-78.167946,42.113506],"type":"Point"},"name":"FREDS AUTO REPAIR"}
+{"_id":{"$oid":"55cba2476c522cafdb053b0f"},"location":{"coordinates":[-78.164235,42.103095],"type":"Point"},"name":"ROBINSON AUTO REPAIR"}
+{"_id":{"$oid":"55cba2476c522cafdb053b10"},"location":{"coordinates":[-78.153068,42.388577],"type":"Point"},"name":"PROTEC COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053b11"},"location":{"coordinates":[-78.277272,42.00612],"type":"Point"},"name":"BO DOBBIES AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053b12"},"location":{"coordinates":[-78.291928,42.217292],"type":"Point"},"name":"CONGDONS BODY SHOP"}
+{"_id":{"$oid":"55cba2476c522cafdb053b13"},"location":{"coordinates":[-78.274601,42.217547],"type":"Point"},"name":"FOUR SEASONS AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053b14"},"location":{"coordinates":[-78.281182,42.2186],"type":"Point"},"name":"MIKES BODY SHOP"}
+{"_id":{"$oid":"55cba2476c522cafdb053b15"},"location":{"coordinates":[-78.221182,42.4186],"type":"Point"},"name":"FILLMORE COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053b16"},"location":{"coordinates":[-77.987503,42.170515],"type":"Point"},"name":"HKS AUTOBODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053b17"},"location":{"coordinates":[-77.879191,42.147534],"type":"Point"},"name":"CORNELL COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053b18"},"location":{"coordinates":[-77.92286,42.088384],"type":"Point"},"name":"NEW TECH DEALS ON"}
+{"_id":{"$oid":"55cba2476c522cafdb053b19"},"location":{"coordinates":[-77.897201,42.019223],"type":"Point"},"name":"TONYS AUTO BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053b1a"},"location":{"coordinates":[-77.877201,42.219223],"type":"Point"},"name":"VAN PELT COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053b1b"},"location":{"coordinates":[-73.901753,40.810799],"type":"Point"},"name":"1 STOP AUTO BODY &"}
+{"_id":{"$oid":"55cba2476c522cafdb053b1c"},"location":{"coordinates":[-73.898809,40.851231],"type":"Point"},"name":"2040 FELIX CAR"}
+{"_id":{"$oid":"55cba2476c522cafdb053b1d"},"location":{"coordinates":[-73.914295,40.80459],"type":"Point"},"name":"360 COLLISION &"}
+{"_id":{"$oid":"55cba2476c522cafdb053b1e"},"location":{"coordinates":[-73.824295,40.81459],"type":"Point"},"name":"505 COLLISION INC"}
+{"_id":{"$oid":"55cba2476c522cafdb053b1f"},"location":{"coordinates":[-73.941295,40.82459],"type":"Point"},"name":"5 STAR AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053b20"},"location":{"coordinates":[-73.851232,40.900942],"type":"Point"},"name":"A1 AUTOBODY REPAIR"}
+{"_id":{"$oid":"55cba2476c522cafdb053b21"},"location":{"coordinates":[-73.826641,40.880701],"type":"Point"},"name":"AAA AUTO COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053b22"},"location":{"coordinates":[-73.853202,40.899762],"type":"Point"},"name":"AAA BEST AUTO BODY &"}
+{"_id":{"$oid":"55cba2476c522cafdb053b23"},"location":{"coordinates":[-73.856626,40.87067],"type":"Point"},"name":"AAA FIRST CLASS"}
+{"_id":{"$oid":"55cba2476c522cafdb053b24"},"location":{"coordinates":[-73.842144,40.841905],"type":"Point"},"name":"A&A AUTO BODY OF THE"}
+{"_id":{"$oid":"55cba2476c522cafdb053b25"},"location":{"coordinates":[-73.908289,40.809977],"type":"Point"},"name":"AEM TOWING &"}
+{"_id":{"$oid":"55cba2476c522cafdb053b26"},"location":{"coordinates":[-73.895124,40.854678],"type":"Point"},"name":"AFFORDABLE AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053b27"},"location":{"coordinates":[-73.851115,40.899738],"type":"Point"},"name":"ALIJAH AUTO BODY INC"}
+{"_id":{"$oid":"55cba2476c522cafdb053b28"},"location":{"coordinates":[-73.841176,40.855172],"type":"Point"},"name":"ALL AMERICAN AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053b29"},"location":{"coordinates":[-73.901753,40.810799],"type":"Point"},"name":"ALL IMPRESSIVE"}
+{"_id":{"$oid":"55cba2476c522cafdb053b2a"},"location":{"coordinates":[-73.887737,40.828469],"type":"Point"},"name":"ALL STAR AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053b2b"},"location":{"coordinates":[-73.828425,40.889964],"type":"Point"},"name":"ALL STAR AUTO REPAIR"}
+{"_id":{"$oid":"55cba2476c522cafdb053b2c"},"location":{"coordinates":[-73.903373,40.811388],"type":"Point"},"name":"AMARO BODY SHOP CORP"}
+{"_id":{"$oid":"55cba2476c522cafdb053b2d"},"location":{"coordinates":[-73.841703,40.838511],"type":"Point"},"name":"ANTHONY AUTOBODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053b2e"},"location":{"coordinates":[-73.840876,40.855384],"type":"Point"},"name":"A&R AUTO COLLISION &"}
+{"_id":{"$oid":"55cba2476c522cafdb053b2f"},"location":{"coordinates":[-73.940876,40.845384],"type":"Point"},"name":"ARMORY AUTO BODY INC"}
+{"_id":{"$oid":"55cba2476c522cafdb053b30"},"location":{"coordinates":[-73.827549,40.890103],"type":"Point"},"name":"AUTO BODY PROS CORP"}
+{"_id":{"$oid":"55cba2476c522cafdb053b31"},"location":{"coordinates":[-73.842056,40.854435],"type":"Point"},"name":"AUTOMOTION COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053b32"},"location":{"coordinates":[-73.891131,40.818002],"type":"Point"},"name":"AUTORAMA ENTERPRISES"}
+{"_id":{"$oid":"55cba2476c522cafdb053b33"},"location":{"coordinates":[-73.917152,40.843002],"type":"Point"},"name":"BEETHOVEN AUTOBODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053b34"},"location":{"coordinates":[-73.867113,40.876469],"type":"Point"},"name":"BICHE AUTO REPAIR"}
+{"_id":{"$oid":"55cba2476c522cafdb053b35"},"location":{"coordinates":[-73.829485,40.883409],"type":"Point"},"name":"B M J TOWING &"}
+{"_id":{"$oid":"55cba2476c522cafdb053b36"},"location":{"coordinates":[-73.82928,40.886994],"type":"Point"},"name":"BORDERLINE AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053b37"},"location":{"coordinates":[-73.825413,40.885051],"type":"Point"},"name":"BOSTON ROAD"}
+{"_id":{"$oid":"55cba2476c522cafdb053b38"},"location":{"coordinates":[-73.85897,40.898106],"type":"Point"},"name":"BRASS HAT COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053b39"},"location":{"coordinates":[-73.883544,40.835669],"type":"Point"},"name":"BRAWAY AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053b3a"},"location":{"coordinates":[-73.889355,40.810807],"type":"Point"},"name":"BRONX AUTO BODY AND"}
+{"_id":{"$oid":"55cba2476c522cafdb053b3b"},"location":{"coordinates":[-73.842738,40.853624],"type":"Point"},"name":"BRONX AUTO COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053b3c"},"location":{"coordinates":[-73.886126,40.805814],"type":"Point"},"name":"BRONX AUTO CONCEPT"}
+{"_id":{"$oid":"55cba2476c522cafdb053b3d"},"location":{"coordinates":[-73.837891,40.876851],"type":"Point"},"name":"BRONX COUNTY"}
+{"_id":{"$oid":"55cba2476c522cafdb053b3e"},"location":{"coordinates":[-73.90278,40.810065],"type":"Point"},"name":"BRUCKNER COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053b3f"},"location":{"coordinates":[-73.827737,40.889688],"type":"Point"},"name":"BURKES COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053b40"},"location":{"coordinates":[-73.911753,40.826998],"type":"Point"},"name":"BX AUTOMOTIVE LLC"}
+{"_id":{"$oid":"55cba2476c522cafdb053b41"},"location":{"coordinates":[-73.826666,40.885813],"type":"Point"},"name":"BXNY COLLISION &"}
+{"_id":{"$oid":"55cba2476c522cafdb053b42"},"location":{"coordinates":[-73.919591,40.803845],"type":"Point"},"name":"CARS AUTOMOTIVE CORP"}
+{"_id":{"$oid":"55cba2476c522cafdb053b43"},"location":{"coordinates":[-73.855411,40.843046],"type":"Point"},"name":"CENTURY TOWING INC"}
+{"_id":{"$oid":"55cba2476c522cafdb053b44"},"location":{"coordinates":[-73.914046,40.80449],"type":"Point"},"name":"CERTIFIED AUTO BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053b45"},"location":{"coordinates":[-73.901753,40.810799],"type":"Point"},"name":"CERTIFIED AUTO BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053b46"},"location":{"coordinates":[-73.917076,40.843109],"type":"Point"},"name":"CG AUTO REPAIR LLC"}
+{"_id":{"$oid":"55cba2476c522cafdb053b47"},"location":{"coordinates":[-73.896194,40.852799],"type":"Point"},"name":"CHINO AUTO REPAIR"}
+{"_id":{"$oid":"55cba2476c522cafdb053b48"},"location":{"coordinates":[-73.867113,40.876469],"type":"Point"},"name":"CHURCH BROTHERS AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053b49"},"location":{"coordinates":[-73.857154,40.812824],"type":"Point"},"name":"CLASON POINT"}
+{"_id":{"$oid":"55cba2476c522cafdb053b4a"},"location":{"coordinates":[-73.831292,40.887654],"type":"Point"},"name":"COBYS AUTOMOTIVE INC"}
+{"_id":{"$oid":"55cba2476c522cafdb053b4b"},"location":{"coordinates":[-73.895713,40.853646],"type":"Point"},"name":"COLLISION MASTERS"}
+{"_id":{"$oid":"55cba2476c522cafdb053b4c"},"location":{"coordinates":[-73.842056,40.854435],"type":"Point"},"name":"COLLISION PROZ"}
+{"_id":{"$oid":"55cba2476c522cafdb053b4d"},"location":{"coordinates":[-73.842056,40.854435],"type":"Point"},"name":"COLLISION PROZ ONE"}
+{"_id":{"$oid":"55cba2476c522cafdb053b4e"},"location":{"coordinates":[-73.883982,40.812237],"type":"Point"},"name":"COMPETITION"}
+{"_id":{"$oid":"55cba2476c522cafdb053b4f"},"location":{"coordinates":[-73.826337,40.886755],"type":"Point"},"name":"COMPLETE AUTO BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053b50"},"location":{"coordinates":[-73.82856,40.88577],"type":"Point"},"name":"CREATIVE AUTO OPTION"}
+{"_id":{"$oid":"55cba2476c522cafdb053b51"},"location":{"coordinates":[-73.841133,40.855203],"type":"Point"},"name":"CUSTOM AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053b52"},"location":{"coordinates":[-73.841133,40.835203],"type":"Point"},"name":"CUSTOM AUTO TECH"}
+{"_id":{"$oid":"55cba2476c522cafdb053b53"},"location":{"coordinates":[-73.851133,40.885203],"type":"Point"},"name":"D&A AUTO CLINIC CORP"}
+{"_id":{"$oid":"55cba2476c522cafdb053b54"},"location":{"coordinates":[-73.908752,40.880474],"type":"Point"},"name":"DALE WAY AUTO BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053b55"},"location":{"coordinates":[-73.85897,40.898106],"type":"Point"},"name":"DART AUTOMOTIVE LLC"}
+{"_id":{"$oid":"55cba2476c522cafdb053b56"},"location":{"coordinates":[-73.908382,40.826702],"type":"Point"},"name":"DARU SALAM AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053b57"},"location":{"coordinates":[-73.883002,40.824235],"type":"Point"},"name":"D&DS IMPRESSIVE AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053b58"},"location":{"coordinates":[-73.842568,40.852234],"type":"Point"},"name":"DEALS ON WHEELS AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053b59"},"location":{"coordinates":[-73.838274,40.877016],"type":"Point"},"name":"DERRICK AUTOBODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053b5a"},"location":{"coordinates":[-73.88375,40.818853],"type":"Point"},"name":"D&M TOWING CORP"}
+{"_id":{"$oid":"55cba2476c522cafdb053b5b"},"location":{"coordinates":[-73.842519,40.842447],"type":"Point"},"name":"DOMS AUTO BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053b5c"},"location":{"coordinates":[-73.890972,40.856293],"type":"Point"},"name":"D&R COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053b5d"},"location":{"coordinates":[-73.860505,40.867014],"type":"Point"},"name":"DYNAMIC COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053b5e"},"location":{"coordinates":[-73.845051,40.849185],"type":"Point"},"name":"EASTCHESTER AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053b5f"},"location":{"coordinates":[-73.883002,40.824235],"type":"Point"},"name":"EAST COAST CUSTOMS"}
+{"_id":{"$oid":"55cba2476c522cafdb053b60"},"location":{"coordinates":[-73.827405,40.882409],"type":"Point"},"name":"EAST COLLISION INC"}
+{"_id":{"$oid":"55cba2476c522cafdb053b61"},"location":{"coordinates":[-73.914046,40.80449],"type":"Point"},"name":"EB AUTO BODY SHOP"}
+{"_id":{"$oid":"55cba2476c522cafdb053b62"},"location":{"coordinates":[-73.900307,40.88104],"type":"Point"},"name":"EDGEWATER COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053b63"},"location":{"coordinates":[-73.88234,40.811146],"type":"Point"},"name":"EDGEWATER COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053b64"},"location":{"coordinates":[-73.910381,40.850464],"type":"Point"},"name":"EL MUNDO AUTO REPAIR"}
+{"_id":{"$oid":"55cba2476c522cafdb053b65"},"location":{"coordinates":[-73.842245,40.852762],"type":"Point"},"name":"EMPIRE AUTOMOTIVE"}
+{"_id":{"$oid":"55cba2476c522cafdb053b66"},"location":{"coordinates":[-73.842245,40.852762],"type":"Point"},"name":"EMPIRE COACH INC"}
+{"_id":{"$oid":"55cba2476c522cafdb053b67"},"location":{"coordinates":[-73.896425,40.85239],"type":"Point"},"name":"EMPIRE COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053b68"},"location":{"coordinates":[-73.881761,40.821113],"type":"Point"},"name":"EMPIRE STATE AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053b69"},"location":{"coordinates":[-73.882369,40.821531],"type":"Point"},"name":"EMPIRE STATE TOWING"}
+{"_id":{"$oid":"55cba2476c522cafdb053b6a"},"location":{"coordinates":[-73.84238,40.83999],"type":"Point"},"name":"ENTOURAGE AUTOMOTIVE"}
+{"_id":{"$oid":"55cba2476c522cafdb053b6b"},"location":{"coordinates":[-73.830352,40.883026],"type":"Point"},"name":"ENVY AUTO COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053b6c"},"location":{"coordinates":[-73.920467,40.839607],"type":"Point"},"name":"EVOLUTION AUTO BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053b6d"},"location":{"coordinates":[-73.820467,40.847607],"type":"Point"},"name":"EXCELLENCE AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053b6e"},"location":{"coordinates":[-73.829567,40.887884],"type":"Point"},"name":"EXCLUSIVE AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053b6f"},"location":{"coordinates":[-73.863907,40.896004],"type":"Point"},"name":"EXECUTIVE EXPERT"}
+{"_id":{"$oid":"55cba2476c522cafdb053b70"},"location":{"coordinates":[-73.884796,40.811698],"type":"Point"},"name":"FARIS AUTO SERVICE"}
+{"_id":{"$oid":"55cba2476c522cafdb053b71"},"location":{"coordinates":[-73.841873,40.854605],"type":"Point"},"name":"FASHION AUTO BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053b72"},"location":{"coordinates":[-73.920382,40.837426],"type":"Point"},"name":"F&C BODY SHOP AND"}
+{"_id":{"$oid":"55cba2476c522cafdb053b73"},"location":{"coordinates":[-73.898606,40.84854],"type":"Point"},"name":"FELIX AUTO BODY&"}
+{"_id":{"$oid":"55cba2476c522cafdb053b74"},"location":{"coordinates":[-73.867385,40.839862],"type":"Point"},"name":"FGO MOTOR SERVICES"}
+{"_id":{"$oid":"55cba2476c522cafdb053b75"},"location":{"coordinates":[-73.840344,40.834541],"type":"Point"},"name":"FINAL TOUCH AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053b76"},"location":{"coordinates":[-73.903897,40.843777],"type":"Point"},"name":"FINAL TOUCH AUTO BOD"}
+{"_id":{"$oid":"55cba2476c522cafdb053b77"},"location":{"coordinates":[-73.835331,40.838391],"type":"Point"},"name":"FINEST AB CORP"}
+{"_id":{"$oid":"55cba2476c522cafdb053b78"},"location":{"coordinates":[-73.885232,40.812315],"type":"Point"},"name":"FIRST CHOICE"}
+{"_id":{"$oid":"55cba2476c522cafdb053b79"},"location":{"coordinates":[-73.904098,40.879704],"type":"Point"},"name":"FIRST CLASS AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053b7a"},"location":{"coordinates":[-73.84302,40.838197],"type":"Point"},"name":"FIRST STAR"}
+{"_id":{"$oid":"55cba2476c522cafdb053b7b"},"location":{"coordinates":[-73.84304,40.824641],"type":"Point"},"name":"FIVE JS AUTOMOTIVE"}
+{"_id":{"$oid":"55cba2476c522cafdb053b7c"},"location":{"coordinates":[-73.851602,40.901941],"type":"Point"},"name":"FLASH AUTO BODY INC"}
+{"_id":{"$oid":"55cba2476c522cafdb053b7d"},"location":{"coordinates":[-73.864814,40.841056],"type":"Point"},"name":"FOREIGNERS AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053b7e"},"location":{"coordinates":[-73.868214,40.831056],"type":"Point"},"name":"FORT WASHINGTON AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053b7f"},"location":{"coordinates":[-73.909139,40.839945],"type":"Point"},"name":"FRAMELINE AUTO BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053b80"},"location":{"coordinates":[-73.830352,40.883026],"type":"Point"},"name":"FRESH START AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053b81"},"location":{"coordinates":[-73.869411,40.839559],"type":"Point"},"name":"GABAON BODY SHOP INC"}
+{"_id":{"$oid":"55cba2476c522cafdb053b82"},"location":{"coordinates":[-73.876265,40.841344],"type":"Point"},"name":"GENCO JR CORP"}
+{"_id":{"$oid":"55cba2476c522cafdb053b83"},"location":{"coordinates":[-73.843639,40.843354],"type":"Point"},"name":"GENERAL AUTOWORKS"}
+{"_id":{"$oid":"55cba2476c522cafdb053b84"},"location":{"coordinates":[-73.909926,40.85101],"type":"Point"},"name":"G&G DYNAMIC"}
+{"_id":{"$oid":"55cba2476c522cafdb053b85"},"location":{"coordinates":[-73.913495,40.825576],"type":"Point"},"name":"GLB TOWING &"}
+{"_id":{"$oid":"55cba2476c522cafdb053b86"},"location":{"coordinates":[-73.845061,40.84896],"type":"Point"},"name":"GUN HILL COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053b87"},"location":{"coordinates":[-73.855584,40.843194],"type":"Point"},"name":"H&H AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053b88"},"location":{"coordinates":[-73.885273,40.82889],"type":"Point"},"name":"HMT AUTO REPAIR INC"}
+{"_id":{"$oid":"55cba2476c522cafdb053b89"},"location":{"coordinates":[-73.900307,40.88104],"type":"Point"},"name":"HUDSON COLLISION 1"}
+{"_id":{"$oid":"55cba2476c522cafdb053b8a"},"location":{"coordinates":[-73.889092,40.809763],"type":"Point"},"name":"HUNTS POINT TRUCK"}
+{"_id":{"$oid":"55cba2476c522cafdb053b8b"},"location":{"coordinates":[-73.856705,40.901202],"type":"Point"},"name":"IMPACT BODY REPAIR"}
+{"_id":{"$oid":"55cba2476c522cafdb053b8c"},"location":{"coordinates":[-73.888818,40.86373],"type":"Point"},"name":"JAMAL JAYYOUSI INC"}
+{"_id":{"$oid":"55cba2476c522cafdb053b8d"},"location":{"coordinates":[-73.82621,40.886467],"type":"Point"},"name":"JAYS AUTO BODY CORP"}
+{"_id":{"$oid":"55cba2476c522cafdb053b8e"},"location":{"coordinates":[-73.826666,40.885813],"type":"Point"},"name":"JBM AUTOMOTIVE INC"}
+{"_id":{"$oid":"55cba2476c522cafdb053b8f"},"location":{"coordinates":[-73.898204,40.849248],"type":"Point"},"name":"J & J AUTO MECHANIC"}
+{"_id":{"$oid":"55cba2476c522cafdb053b90"},"location":{"coordinates":[-73.910239,40.850654],"type":"Point"},"name":"JJ COLLISION CENTER"}
+{"_id":{"$oid":"55cba2476c522cafdb053b91"},"location":{"coordinates":[-73.843126,40.843327],"type":"Point"},"name":"JJD AUTO REPAIRS INC"}
+{"_id":{"$oid":"55cba2476c522cafdb053b92"},"location":{"coordinates":[-73.891147,40.855314],"type":"Point"},"name":"J&J PRESTIGE AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053b93"},"location":{"coordinates":[-73.913375,40.846276],"type":"Point"},"name":"J&N AUTO BODY SHOP"}
+{"_id":{"$oid":"55cba2476c522cafdb053b94"},"location":{"coordinates":[-73.876276,40.838039],"type":"Point"},"name":"JOSEPHS AUTO CENTER"}
+{"_id":{"$oid":"55cba2476c522cafdb053b95"},"location":{"coordinates":[-73.901753,40.810799],"type":"Point"},"name":"JUNIORS AUTOMOTIVE"}
+{"_id":{"$oid":"55cba2476c522cafdb053b96"},"location":{"coordinates":[-73.824473,40.885588],"type":"Point"},"name":"KARLS AUTO COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053b97"},"location":{"coordinates":[-73.855584,40.843194],"type":"Point"},"name":"KING AUTO BODY WORK"}
+{"_id":{"$oid":"55cba2476c522cafdb053b98"},"location":{"coordinates":[-73.901934,40.884396],"type":"Point"},"name":"KINGSBRIDGE TOWING &"}
+{"_id":{"$oid":"55cba2476c522cafdb053b99"},"location":{"coordinates":[-73.829966,40.88512],"type":"Point"},"name":"KO AUTOBODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053b9a"},"location":{"coordinates":[-73.830115,40.885058],"type":"Point"},"name":"K O AUTOMOTIVE INC"}
+{"_id":{"$oid":"55cba2476c522cafdb053b9b"},"location":{"coordinates":[-73.831292,40.887654],"type":"Point"},"name":"KOBYS AUTOMOTIVE INC"}
+{"_id":{"$oid":"55cba2476c522cafdb053b9c"},"location":{"coordinates":[-73.883982,40.812237],"type":"Point"},"name":"L&C AUTO REPAIR INC"}
+{"_id":{"$oid":"55cba2476c522cafdb053b9d"},"location":{"coordinates":[-73.919591,40.803845],"type":"Point"},"name":"LEGION X AUTO BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053b9e"},"location":{"coordinates":[-73.844758,40.844438],"type":"Point"},"name":"LIBERATO AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053b9f"},"location":{"coordinates":[-73.854758,40.854438],"type":"Point"},"name":"LIZA BROWNS AUTOBODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053ba0"},"location":{"coordinates":[-73.898663,40.85031],"type":"Point"},"name":"L&P AUTO BODY SHOP"}
+{"_id":{"$oid":"55cba2476c522cafdb053ba1"},"location":{"coordinates":[-73.829485,40.883409],"type":"Point"},"name":"MAGIC AUTO COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053ba2"},"location":{"coordinates":[-73.829485,40.883409],"type":"Point"},"name":"MAGIC AUTO REPAIR"}
+{"_id":{"$oid":"55cba2476c522cafdb053ba3"},"location":{"coordinates":[-73.889416,40.811053],"type":"Point"},"name":"MATH AUTO BODY 1"}
+{"_id":{"$oid":"55cba2476c522cafdb053ba4"},"location":{"coordinates":[-73.883982,40.812237],"type":"Point"},"name":"MATH AUTO BODY CORP"}
+{"_id":{"$oid":"55cba2476c522cafdb053ba5"},"location":{"coordinates":[-73.91711,40.843061],"type":"Point"},"name":"MATOS AUTO REPAIR"}
+{"_id":{"$oid":"55cba2476c522cafdb053ba6"},"location":{"coordinates":[-73.81711,40.853061],"type":"Point"},"name":"MAXSPEED AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053ba7"},"location":{"coordinates":[-73.91867,40.84055],"type":"Point"},"name":"MELY AUTO BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053ba8"},"location":{"coordinates":[-73.913896,40.804107],"type":"Point"},"name":"METRO TRANSIT"}
+{"_id":{"$oid":"55cba2476c522cafdb053ba9"},"location":{"coordinates":[-73.877934,40.87045],"type":"Point"},"name":"M G AUTO BODY INC"}
+{"_id":{"$oid":"55cba2476c522cafdb053baa"},"location":{"coordinates":[-73.907123,40.83089],"type":"Point"},"name":"MID BRONX SUPER"}
+{"_id":{"$oid":"55cba2476c522cafdb053bab"},"location":{"coordinates":[-73.885273,40.82889],"type":"Point"},"name":"MODEL A AUTOMOTIVE"}
+{"_id":{"$oid":"55cba2476c522cafdb053bac"},"location":{"coordinates":[-73.897961,40.85256],"type":"Point"},"name":"MONOPOLY COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053bad"},"location":{"coordinates":[-73.827161,40.880529],"type":"Point"},"name":"M&S AUTO COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053bae"},"location":{"coordinates":[-73.858565,40.868979],"type":"Point"},"name":"M STOP AUTO INC"}
+{"_id":{"$oid":"55cba2476c522cafdb053baf"},"location":{"coordinates":[-73.917242,40.842874],"type":"Point"},"name":"MT AUTO REPAIR INC"}
+{"_id":{"$oid":"55cba2476c522cafdb053bb0"},"location":{"coordinates":[-73.910529,40.82604],"type":"Point"},"name":"NEW LAST CHANCE AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053bb1"},"location":{"coordinates":[-73.885232,40.812315],"type":"Point"},"name":"NEW LINE COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053bb2"},"location":{"coordinates":[-73.824566,40.885337],"type":"Point"},"name":"NEX LEVEL AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053bb3"},"location":{"coordinates":[-73.824566,40.885337],"type":"Point"},"name":"NEXT LEVEL COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053bb4"},"location":{"coordinates":[-73.829994,40.887857],"type":"Point"},"name":"NUPLUS CORP"}
+{"_id":{"$oid":"55cba2476c522cafdb053bb5"},"location":{"coordinates":[-73.901753,40.810799],"type":"Point"},"name":"NYC AUTOMOTIVE"}
+{"_id":{"$oid":"55cba2476c522cafdb053bb6"},"location":{"coordinates":[-73.867113,40.876469],"type":"Point"},"name":"NYC REPAIRS INC"}
+{"_id":{"$oid":"55cba2476c522cafdb053bb7"},"location":{"coordinates":[-73.830793,40.883793],"type":"Point"},"name":"OCEAN & BROTHERS"}
+{"_id":{"$oid":"55cba2476c522cafdb053bb8"},"location":{"coordinates":[-73.909926,40.85101],"type":"Point"},"name":"OMAR AUTO BODY CORP"}
+{"_id":{"$oid":"55cba2476c522cafdb053bb9"},"location":{"coordinates":[-73.853406,40.900168],"type":"Point"},"name":"ONE NATION"}
+{"_id":{"$oid":"55cba2476c522cafdb053bba"},"location":{"coordinates":[-73.850859,40.901397],"type":"Point"},"name":"ONLINE AUTOMOTIVE"}
+{"_id":{"$oid":"55cba2476c522cafdb053bbb"},"location":{"coordinates":[-73.886968,40.809077],"type":"Point"},"name":"ON POINT AUTOMOTIVE"}
+{"_id":{"$oid":"55cba2476c522cafdb053bbc"},"location":{"coordinates":[-73.829275,40.884866],"type":"Point"},"name":"OPZ COLLISION INC"}
+{"_id":{"$oid":"55cba2476c522cafdb053bbd"},"location":{"coordinates":[-73.896425,40.85239],"type":"Point"},"name":"PARK COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053bbe"},"location":{"coordinates":[-73.90442,40.843236],"type":"Point"},"name":"PASTOR AUTO REPAIR"}
+{"_id":{"$oid":"55cba2476c522cafdb053bbf"},"location":{"coordinates":[-73.890711,40.855722],"type":"Point"},"name":"PAT DISILVIOS BODY&"}
+{"_id":{"$oid":"55cba2476c522cafdb053bc0"},"location":{"coordinates":[-73.856775,40.901115],"type":"Point"},"name":"P&D AUTO BODY &REPR"}
+{"_id":{"$oid":"55cba2476c522cafdb053bc1"},"location":{"coordinates":[-73.888545,40.807733],"type":"Point"},"name":"PEDROS WELDING SHOP"}
+{"_id":{"$oid":"55cba2476c522cafdb053bc2"},"location":{"coordinates":[-73.865024,40.863494],"type":"Point"},"name":"PERSONAL TOUCH BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053bc3"},"location":{"coordinates":[-73.854957,40.843381],"type":"Point"},"name":"PLATINUM PLUS"}
+{"_id":{"$oid":"55cba2476c522cafdb053bc4"},"location":{"coordinates":[-73.913896,40.804107],"type":"Point"},"name":"P&N TOWING COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053bc5"},"location":{"coordinates":[-73.884787,40.81352],"type":"Point"},"name":"POINT AUTO REPAIR"}
+{"_id":{"$oid":"55cba2476c522cafdb053bc6"},"location":{"coordinates":[-73.908312,40.809909],"type":"Point"},"name":"PROFESSIONAL AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053bc7"},"location":{"coordinates":[-73.855531,40.873477],"type":"Point"},"name":"PROSPECT AUTO SALES"}
+{"_id":{"$oid":"55cba2476c522cafdb053bc8"},"location":{"coordinates":[-73.909845,40.851101],"type":"Point"},"name":"QUALITY AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053bc9"},"location":{"coordinates":[-73.928847,40.833885],"type":"Point"},"name":"RALPHS AUTO REPAIR"}
+{"_id":{"$oid":"55cba2476c522cafdb053bca"},"location":{"coordinates":[-73.828847,40.853885],"type":"Point"},"name":"RAYMONDS AUTOMOTIVE"}
+{"_id":{"$oid":"55cba2476c522cafdb053bcb"},"location":{"coordinates":[-73.863728,40.879495],"type":"Point"},"name":"RC AUTOWORKS INC"}
+{"_id":{"$oid":"55cba2476c522cafdb053bcc"},"location":{"coordinates":[-73.852899,40.900121],"type":"Point"},"name":"R&E AUTO COLLISION &"}
+{"_id":{"$oid":"55cba2476c522cafdb053bcd"},"location":{"coordinates":[-73.910891,40.829178],"type":"Point"},"name":"RECHARGE AUTO BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053bce"},"location":{"coordinates":[-73.914937,40.844095],"type":"Point"},"name":"REDLINE COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053bcf"},"location":{"coordinates":[-73.903796,40.843955],"type":"Point"},"name":"R G AUTO COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053bd0"},"location":{"coordinates":[-73.903796,40.843955],"type":"Point"},"name":"RG AUTOMOTIVE &"}
+{"_id":{"$oid":"55cba2476c522cafdb053bd1"},"location":{"coordinates":[-73.867137,40.848041],"type":"Point"},"name":"RHINELANDER AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053bd2"},"location":{"coordinates":[-73.853406,40.900168],"type":"Point"},"name":"RICH AUTOMOTIVE CORP"}
+{"_id":{"$oid":"55cba2476c522cafdb053bd3"},"location":{"coordinates":[-73.852818,40.900214],"type":"Point"},"name":"RICH AUTOMOTIVE CORP"}
+{"_id":{"$oid":"55cba2476c522cafdb053bd4"},"location":{"coordinates":[-73.909269,40.879945],"type":"Point"},"name":"RIVERDALE AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053bd5"},"location":{"coordinates":[-73.898606,40.84854],"type":"Point"},"name":"RIVERSIDE PLUS"}
+{"_id":{"$oid":"55cba2476c522cafdb053bd6"},"location":{"coordinates":[-73.906249,40.856039],"type":"Point"},"name":"R&L AUTO BODY CORP"}
+{"_id":{"$oid":"55cba2476c522cafdb053bd7"},"location":{"coordinates":[-73.90209,40.847021],"type":"Point"},"name":"R&M AUTO TECH CORP"}
+{"_id":{"$oid":"55cba2476c522cafdb053bd8"},"location":{"coordinates":[-73.855385,40.843264],"type":"Point"},"name":"RN&AC BODYSHOP INC"}
+{"_id":{"$oid":"55cba2476c522cafdb053bd9"},"location":{"coordinates":[-73.882087,40.839525],"type":"Point"},"name":"RNJ AUTO BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053bda"},"location":{"coordinates":[-73.895914,40.81535],"type":"Point"},"name":"ROAN AUTO PAINT BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053bdb"},"location":{"coordinates":[-73.867113,40.876469],"type":"Point"},"name":"ROY&D BOYS AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053bdc"},"location":{"coordinates":[-73.830619,40.887831],"type":"Point"},"name":"RPM COLLISION CORP"}
+{"_id":{"$oid":"55cba2476c522cafdb053bdd"},"location":{"coordinates":[-73.829554,40.883534],"type":"Point"},"name":"R&R AUTO WORKS INC"}
+{"_id":{"$oid":"55cba2476c522cafdb053bde"},"location":{"coordinates":[-73.893293,40.848259],"type":"Point"},"name":"RUBENS AUTO BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053bdf"},"location":{"coordinates":[-73.826641,40.880701],"type":"Point"},"name":"SATCHS AUTO BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053be0"},"location":{"coordinates":[-73.893555,40.814726],"type":"Point"},"name":"SEPASTIA AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053be1"},"location":{"coordinates":[-73.914046,40.80449],"type":"Point"},"name":"SHARIS AUTOBODY &"}
+{"_id":{"$oid":"55cba2476c522cafdb053be2"},"location":{"coordinates":[-73.915242,40.84367],"type":"Point"},"name":"SOLUTION AUTO BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053be3"},"location":{"coordinates":[-73.918479,40.84126],"type":"Point"},"name":"S & S COACH WORKS"}
+{"_id":{"$oid":"55cba2476c522cafdb053be4"},"location":{"coordinates":[-73.918479,40.84126],"type":"Point"},"name":"S&S COACH WORKS INC"}
+{"_id":{"$oid":"55cba2476c522cafdb053be5"},"location":{"coordinates":[-73.891057,40.856499],"type":"Point"},"name":"S&T AUTO BODY REPAIR"}
+{"_id":{"$oid":"55cba2476c522cafdb053be6"},"location":{"coordinates":[-73.841133,40.855203],"type":"Point"},"name":"STEVE JAYZ"}
+{"_id":{"$oid":"55cba2476c522cafdb053be7"},"location":{"coordinates":[-73.896425,40.85239],"type":"Point"},"name":"SVCCESS COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053be8"},"location":{"coordinates":[-73.82928,40.886994],"type":"Point"},"name":"TAMIAS AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053be9"},"location":{"coordinates":[-73.829296,40.889067],"type":"Point"},"name":"T COOLS AUTO BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053bea"},"location":{"coordinates":[-73.841703,40.838511],"type":"Point"},"name":"TERMINAL AUTO BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053beb"},"location":{"coordinates":[-73.885057,40.820036],"type":"Point"},"name":"TEXRON COMM AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053bec"},"location":{"coordinates":[-73.909637,40.851337],"type":"Point"},"name":"THREE RADIATOR"}
+{"_id":{"$oid":"55cba2476c522cafdb053bed"},"location":{"coordinates":[-73.856842,40.901031],"type":"Point"},"name":"TIMIRCHAND AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053bee"},"location":{"coordinates":[-73.839156,40.85627],"type":"Point"},"name":"TOP NOTCH AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053bef"},"location":{"coordinates":[-73.841292,40.841485],"type":"Point"},"name":"TOW AUTHORITY"}
+{"_id":{"$oid":"55cba2476c522cafdb053bf0"},"location":{"coordinates":[-73.883002,40.824235],"type":"Point"},"name":"TOW NY AUTO BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053bf1"},"location":{"coordinates":[-73.870928,40.880249],"type":"Point"},"name":"ULTRA AUTOMOTIVE"}
+{"_id":{"$oid":"55cba2476c522cafdb053bf2"},"location":{"coordinates":[-73.883544,40.835669],"type":"Point"},"name":"UNIQUE AUTOBODY LLC"}
+{"_id":{"$oid":"55cba2476c522cafdb053bf3"},"location":{"coordinates":[-73.858027,40.869136],"type":"Point"},"name":"UNIQUE AUTOWERKZ INC"}
+{"_id":{"$oid":"55cba2476c522cafdb053bf4"},"location":{"coordinates":[-73.827161,40.880529],"type":"Point"},"name":"UNITED AUTO BODY NY"}
+{"_id":{"$oid":"55cba2476c522cafdb053bf5"},"location":{"coordinates":[-73.827045,40.886389],"type":"Point"},"name":"UNIVERSE AUTO BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053bf6"},"location":{"coordinates":[-73.839732,40.876432],"type":"Point"},"name":"UNIVERSE TOWING INC"}
+{"_id":{"$oid":"55cba2476c522cafdb053bf7"},"location":{"coordinates":[-73.844841,40.832418],"type":"Point"},"name":"VALANCA AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053bf8"},"location":{"coordinates":[-73.904049,40.843509],"type":"Point"},"name":"VALDIVIAS AUTO BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053bf9"},"location":{"coordinates":[-73.873881,40.874144],"type":"Point"},"name":"VICTORS AUTO BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053bfa"},"location":{"coordinates":[-73.903315,40.843373],"type":"Point"},"name":"WEBSTER AUTO BODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053bfb"},"location":{"coordinates":[-73.856641,40.870184],"type":"Point"},"name":"WINSTON REPAIRS INC"}
+{"_id":{"$oid":"55cba2476c522cafdb053bfc"},"location":{"coordinates":[-73.899715,40.846546],"type":"Point"},"name":"XCELLENCE BODY WORKS"}
+{"_id":{"$oid":"55cba2476c522cafdb053bfd"},"location":{"coordinates":[-73.886425,40.878188],"type":"Point"},"name":"BRONX STARS AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053bfe"},"location":{"coordinates":[-75.87065,42.16394],"type":"Point"},"name":"BODY WORX COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053bff"},"location":{"coordinates":[-75.855029,42.09965],"type":"Point"},"name":"EXPERT AUTOBODY"}
+{"_id":{"$oid":"55cba2476c522cafdb053c00"},"location":{"coordinates":[-75.874194,42.179434],"type":"Point"},"name":"FLEONS BODY SHOP"}
+{"_id":{"$oid":"55cba2476c522cafdb053c01"},"location":{"coordinates":[-75.887169,42.104764],"type":"Point"},"name":"JACK SHERMAN TOYOTA"}
+{"_id":{"$oid":"55cba2476c522cafdb053c02"},"location":{"coordinates":[-75.886546,42.104264],"type":"Point"},"name":"JACK SHERMAN TOYOTA"}
+{"_id":{"$oid":"55cba2476c522cafdb053c03"},"location":{"coordinates":[-75.79911,42.121823],"type":"Point"},"name":"JOE PIER ENTERPRISES"}
+{"_id":{"$oid":"55cba2476c522cafdb053c04"},"location":{"coordinates":[-75.88784,42.168214],"type":"Point"},"name":"JOHNS BODY SHOP"}
+{"_id":{"$oid":"55cba2476c522cafdb053c05"},"location":{"coordinates":[-75.860097,42.100502],"type":"Point"},"name":"KEESLERS BODY SHOP"}
+{"_id":{"$oid":"55cba2476c522cafdb053c06"},"location":{"coordinates":[-75.9032,42.143863],"type":"Point"},"name":"NU LOOK COLLISION"}
+{"_id":{"$oid":"55cba2476c522cafdb053c07"},"location":{"coordinates":[-75.811239,42.145769],"type":"Point"},"name":"RAY HAGERMANS AUTO"}
+{"_id":{"$oid":"55cba2476c522cafdb053c08"},"location":{"coordinates":[-75.850034,42.098217],"type":"Point"},"name":"XYZ AUTO"}
