@@ -1,0 +1,24 @@
+//PlixTrain Booking
+CALL apoc.load.json("file:///FlixBus.json")
+YIELD value AS Plix
+MERGE (c1:City { name:Plix.From})
+MERGE (c2:City { name:Plix.To })
+MERGE (t1:Trip { code: "1_" + Plix.DepTime, deptime:Plix.DepTime,depday:Plix.DepDay, arrivalday:Plix.ArrivalDay,arrivaltime:Plix.ArrivalTime})
+MERGE (c1)<-[:FROM]-(t1)-[:TO]->(c2)
+return * LIMIT 100
+
+MATCH(c1:City{name:"Wuppertal"})<-[:FROM]-(tr1)-[:TO]->(c2:City{name:"Luwu"})
+WHERE tr1.deptime="21:00"
+MERGE(p1:Passenger{name:"Mina",passport:"ABC"})
+MERGE(p2:Passenger{name:"Joseph",passport:"BBB"})
+MERGE(t1:Ticket{seatNo:7, compartment:3})
+MERGE(t2:Ticket{seatNo:8, compartment:4})
+MERGE(b:Booking{createdAt: localdatetime(), BookingNo:apoc.create.uuid()})
+MERGE(p:Payment{createdAt:localdatetime(), status:"Paid", amount:(120-(120*20/100)), transactionCode:"XXX"})
+MERGE (u:User { login: "min187" })
+MERGE(u)-[:HAS]->(b)
+MERGE(b)-[:PAID_METHOD]->(p)
+MERGE(t1)-[:FOR]->(p1)
+MERGE(t2)-[:FOR]->(p2)
+MERGE(tr1)-[:HAS_RELEASED]->(t1)<-[:INCLUDES]-(b)-[:INCLUDES]->(t2)<-[:HAS_RELEASED]-(tr1)
+return b.BookingNo as BookingNo, p.amount as Amount

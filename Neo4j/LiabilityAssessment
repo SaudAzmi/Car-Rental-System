@@ -1,0 +1,16 @@
+//Liability Assessment:
+CALL apoc.load.json('file:///cars_owners')
+YIELD value as data
+MERGE(b:Brand{name:data.Brand})
+MERGE(m:model{name:data.Model,LicenseNo:data.LicenseNo,InsuranceAmount:data.CarInsurance})
+MERGE(d:driver{name:data.owner,gender:data.Gender,YOJ:data.YearOfJoining})
+MERGE(m)-[r1:IS_OF]->(b)
+MERGE(d)-[r2:IS_OWNER_OF]->(m)
+RETURN*
+
+MATCH(m:Model)
+SET m.liability=CASE WHEN m.InsuranceAmount<=100 THEN 'LOW'
+WHEN m.InsuranceAmount>100 AND m.InsuranceAmount<200 THEN 'MEDIUM'
+WHEN m.InsuranceAmount>200 THEN 'HIGH'
+ELSE 'NA'
+END

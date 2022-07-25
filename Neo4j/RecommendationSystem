@@ -1,0 +1,39 @@
+//RECOMMENDATION BASED ON DROP-OFF LOCATION:
+CALL apoc.load.json("file:///PlacesData.json")
+YIELD value AS data
+MERGE (n1:STATE {name:data.STATE})
+MERGE (n2:LOCATION {name:data.CITIES})
+MERGE (n3:RESTAURANTS{name:data.RESTAURANTS})
+MERGE (n4:PUB{name:data.PUBS})
+MERGE (n5:CASTLE{name:data.CASTLES})
+MERGE (n6:CHURCH{name:data.CHURCHES})
+MERGE(n2)-[r1:IS_A_CITY_IN]->(n1)
+MERGE(n3)-[r2:IS_A_RESTAURANT_IN]->(n2)
+MERGE(n4)-[r3:IS_A_PUB_IN]->(n2)
+MERGE(n5)-[r4:IS_A_CASTLE_IN]->(n2)
+MERGE(n6)-[r5:IS_A_CHURCH_IN]->(n2)
+RETURN *
+
+MATCH (n2:LOCATION{name:"Essen"})
+MATCH (n2:LOCATION{name:"Essen"})-[:IS_A_CITY_IN]->(n3:STATE)<-[:IS_A_CITY_IN]-(res:LOCATION)
+MATCH (pubname:BIERGARTEN)-[:IS_A_PUB_IN]->(res:LOCATION)
+MATCH (hotel:RESTAURANTS)-[:IS_A_RESTAURANT_IN]->(res:LOCATION)
+MATCH (castle:CASTLE)-[:IS_A_CASTLE_IN]->(res:LOCATION)
+MATCH (church:CHURCH)-[:IS_A_CHURCH_IN]->(res:LOCATION)
+return  pubname.name as PubRecommendation, hotel.name as HotelRecommendation,castle.name as CastleRecommendation,
+church.name as ChurchRecommendation
+LIMIT 3
+
+//RECOMMENDATION BASED ON WHAT OTHER CUSTOMERS HAVE BOOKED
+
+LOAD CSV WITH HEADERS FROM 'file:///Tie_Up_Booking.csv' as TUHotelBooking
+MERGE(n1:Customer{name:TUHotelBooking.CustomerName, id:TUHotelBooking.CustomerID})
+MERGE(n2:Hotels{name:TUHotelBooking.HotelBooked})
+MERGE(n1)-[:BOOKED]->(n2)
+RETURN *
+
+MATCH(n1:Customer{name:"Emmi"})-[:BOOKED]->(n2:Hotels)<-[:BOOKED]-(u:Customer)
+MATCH(u:Customer)-[:BOOKED]->(rec:Hotels)
+WHERE NOT (rec)<-[:BOOKED]-(rec)
+return distinct(rec.name) as Hotelrecommendation
+
