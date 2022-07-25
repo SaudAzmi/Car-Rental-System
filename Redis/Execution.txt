@@ -1,0 +1,5 @@
+Please run the .py files in the following order:
+- Run the docker Instance of Redis on your local machine.
+- Run command "python data_to_mongo.py" to create dynamic data and store it in the mongoDB Atlas Instance
+- Run "python customer_interface.py" to run the booking simulation.
+- Run the map_plot.ipynb to view an example of the map plot of the customer, car, driver and destination cordinates.
