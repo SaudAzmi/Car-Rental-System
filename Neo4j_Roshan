@@ -1,0 +1,120 @@
+Graph Projection
+CALL gds.graph.project("road",{city:{properties:["lat","long"]}},{drive:{properties:"distance",orientation:'UNDIRECTED'}})
+
+
+
+
+Dijkstra algorithm
+
+
+MATCH (source:city {name: 'Point17'}), (target:city {name: 'Point20'})
+CALL gds.shortestPath.dijkstra.stream('road', {
+sourceNode: source,
+targetNode: target,
+relationshipWeightProperty: 'distance'
+})
+YIELD index, sourceNode, targetNode, totalCost, nodeIds, costs, path
+RETURN
+index,
+gds.util.asNode(sourceNode).name AS sourceNodeName,
+gds.util.asNode(targetNode).name AS targetNodeName,
+totalCost,
+[nodeId IN nodeIds | gds.util.asNode(nodeId).name] AS nodeNames,
+costs,
+nodes(path) as path
+
+
+
+
+
+
+
+
+
+AllShortestPath
+
+
+
+CALL gds.alpha.allShortestPaths.stream("road", {
+relationshipWeightProperty: 'distance'
+})
+YIELD sourceNodeId, targetNodeId, distance
+WITH sourceNodeId, targetNodeId, distance
+WHERE gds.util.isFinite(distance) = true
+MATCH (source:city) WHERE id(source) = sourceNodeId
+MATCH (target:city) WHERE id(target) = targetNodeId
+WITH source, target, distance WHERE source <> target AND source.name="Point1"
+RETURN source.name AS source, target.name AS target, distance as distance_in_kms LIMIT 10
+
+
+
+
+
+
+
+Yen’s K shortest algorithm
+
+
+
+
+MATCH (source:city {name: 'Point1'}), (target:city {name: 'Point35'})
+CALL gds.shortestPath.yens.stream('road', {
+sourceNode: source,
+targetNode: target,
+k: 3,
+relationshipWeightProperty: 'distance'
+})
+YIELD index, sourceNode, targetNode, totalCost, nodeIds, costs, path
+RETURN
+index,
+gds.util.asNode(sourceNode).name AS sourceNodeName,
+gds.util.asNode(targetNode).name AS targetNodeName,
+totalCost,
+[nodeId IN nodeIds | gds.util.asNode(nodeId).name] AS nodeNames,
+costs,
+nodes(path) as path
+
+
+
+
+Popularity
+
+CALL gds.degree.stream('road')
+YIELD nodeId, score
+RETURN gds.util.asNode(nodeId).name AS name, score AS total_traffic
+ORDER BY total_traffic DESC, name DESC limit 5
+
+
+
+Car promotion offer
+
+
+MATCH (:Customer)-[:ADDED_TO_WISH_LIST|:VIEWED]->(suv:Product)-[:IS_IN]->(:Category {name: 'suv'})
+RETURN suv;
+
+
+
+
+
+Now that we have a list of suvs, we can easily include them in a promotional offer. Let’s make a few modifications to the code above:
+
+CREATE(offer:PromotionalOffer {type: 'discount_offer', content: 'SUV discount offer...'})
+WITH offer
+MATCH (:Customer)-[:ADDED_TO_WISH_LIST|:VIEWED]->(suv:Product)-[:IS_IN]->(:Category {name: 'suv'})
+MERGE(offer)-[:USED_TO_PROMOTE]->(suv);
+
+
+
+
+We can track the changes in the graph with the following query:
+
+MATCH (offer:PromotionalOffer)-[:USED_TO_PROMOTE]->(product:Product) 
+RETURN offer, product;
+
+
+
+
+When creating a promotional offer, it’s important to know what products customers have viewed or added to their wish lists. We can find out with this query:
+
+MATCH (offer:PromotionalOffer {type: 'discount_offer'})-[:USED_TO_PROMOTE]->(product:Product)<-[:ADDED_TO_WISH_LIST|:VIEWED]-(customer:Customer) 
+RETURN offer, product, customer;

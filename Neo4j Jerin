@@ -1,0 +1,21 @@
+// load the file
+CALL apoc.load.csv("ServicePoints.csv")
+YIELD list as item
+MERGE(n:city{name:item[0],lat:toFloat(item[3]),long:toFloat(item[4]),CarsAvailable:toInteger(item[5])})
+MERGE (m:city{name:item[1]})
+MERGE (n)-[:near{distance:toInteger(item[2])}]->(m)
+
+CALL gds.graph.project("map",{city:{properties:["lat","long","CarsAvailable"]}},{near:{properties:"distance",orientation:'UNDIRECTED'}})
+
+//Finding the near by locations with availability of cars with the. help of distance
+CALL gds.alpha.allShortestPaths.stream("road", {
+relationshipWeightProperty: 'distance'
+})
+YIELD sourceNodeId, targetNodeId, distance
+WITH sourceNodeId, targetNodeId, distance
+WHERE gds.util.isFinite(distance) = true
+MATCH (source:city) WHERE id(source) = sourceNodeId
+MATCH (target:city) WHERE id(target) = targetNodeId
+WITH source, target, distance WHERE source <> target AND source.name="Karlsruhe"
+RETURN source.name AS City, target.name AS NearestCity, target.CarsAvailable as Cars
+

@@ -1,0 +1,465 @@
+﻿ID,CITY,lat,lng,Country,State,Total Number of Cars,Number of Active Bookings
+1276171358,Stuttgart,48.7761,9.1775,Germany,Baden-Württemberg,100,2
+1276150104,Mannheim,49.4878,8.4661,Germany,Baden-Württemberg,25,17
+1276923210,Karlsruhe,49.0167,8.4,Germany,Baden-Württemberg,25,5
+1276371228,Freiburg im Breisgau,47.995,7.85,Germany,Baden-Württemberg,50,39
+1276519742,Heidelberg,49.4122,8.71,Germany,Baden-Württemberg,25,2
+1276377359,Heilbronn,49.1404,9.218,Germany,Baden-Württemberg,100,61
+1276002212,Ulm,48.3984,9.9916,Germany,Baden-Württemberg,50,44
+1276732622,Pforzheim,48.895,8.705,Germany,Baden-Württemberg,50,30
+1276256795,Reutlingen,48.4833,9.2167,Germany,Baden-Württemberg,50,42
+1276803720,Ludwigsburg,48.8975,9.1919,Germany,Baden-Württemberg,100,68
+1276510955,Esslingen,48.7406,9.3108,Germany,Baden-Württemberg,100,96
+1276918130,Kornwestheim,48.8597,9.185,Germany,Baden-Württemberg,50,42
+1276346018,Weingarten,47.8078,9.6417,Germany,Baden-Württemberg,25,4
+1276579726,Eppelheim,49.4011,8.6297,Germany,Baden-Württemberg,25,23
+1276656917,Asperg,48.9064,9.1414,Germany,Baden-Württemberg,100,63
+1276202316,Neulußheim,49.2933,8.5219,Germany,Baden-Württemberg,50,1
+1276203240,Tübingen,48.52,9.0556,Germany,Baden-Württemberg,25,22
+1276601373,Konstanz,47.6633,9.1753,Germany,Baden-Württemberg,50,5
+1276450523,Villingen-Schwenningen,48.0603,8.4586,Germany,Baden-Württemberg,100,18
+1276757787,Aalen,48.8372,10.0936,Germany,Baden-Württemberg,100,24
+1276001469,Sindelfingen,48.7133,9.0028,Germany,Baden-Württemberg,100,100
+1276002705,Friedrichshafen,47.6542,9.4792,Germany,Baden-Württemberg,25,4
+1276897251,Schwäbisch Gmünd,48.8,9.8,Germany,Baden-Württemberg,25,15
+1276214401,Offenburg,48.4708,7.9408,Germany,Baden-Württemberg,50,17
+1276730715,Göppingen,48.7025,9.6528,Germany,Baden-Württemberg,100,49
+1276678986,Waiblingen,48.8303,9.3169,Germany,Baden-Württemberg,25,0
+1276150269,Baden-Baden,48.7619,8.2408,Germany,Baden-Württemberg,50,18
+1276001231,Böblingen,48.6833,9,Germany,Baden-Württemberg,50,30
+1276088263,Ravensburg,47.7831,9.6114,Germany,Baden-Württemberg,50,47
+1276684629,Rastatt,48.8572,8.2031,Germany,Baden-Württemberg,25,20
+1276104619,Lörrach,47.6156,7.6614,Germany,Baden-Württemberg,25,22
+1276168895,Heidenheim,48.6761,10.1544,Germany,Baden-Württemberg,50,34
+1276002040,Leonberg,48.8014,9.0131,Germany,Baden-Württemberg,50,11
+1276083210,Fellbach,48.8086,9.2758,Germany,Baden-Württemberg,50,13
+1276952389,Filderstadt,48.6667,9.2167,Germany,Baden-Württemberg,50,39
+1276001742,Weinheim,49.5561,8.6697,Germany,Baden-Württemberg,50,23
+1276034362,Bruchsal,49.1333,8.6,Germany,Baden-Württemberg,100,38
+1276969750,Albstadt,48.2119,9.0239,Germany,Baden-Württemberg,50,30
+1276916733,Bietigheim-Bissingen,48.9667,9.1333,Germany,Baden-Württemberg,50,4
+1276408465,Nürtingen,48.6267,9.3353,Germany,Baden-Württemberg,100,28
+1276389368,Kirchheim unter Teck,48.6483,9.4511,Germany,Baden-Württemberg,50,8
+1276447188,Leinfelden-Echterdingen,48.6928,9.1428,Germany,Baden-Württemberg,100,21
+1276855000,Ostfildern,48.7228,9.2631,Germany,Baden-Württemberg,100,94
+1276556451,Schwäbisch Hall,49.1122,9.7375,Germany,Baden-Württemberg,100,39
+1276068626,Schorndorf,48.8,9.5333,Germany,Baden-Württemberg,50,26
+1276126657,Ettlingen,48.9333,8.4,Germany,Baden-Württemberg,50,33
+1276031423,Backnang,48.9464,9.4306,Germany,Baden-Württemberg,100,98
+1276615908,Kehl,48.5711,7.8089,Germany,Baden-Württemberg,100,82
+1276649477,Tuttlingen,47.985,8.8233,Germany,Baden-Württemberg,25,0
+1276820270,Sinsheim,49.25,8.8833,Germany,Baden-Württemberg,50,32
+1276586382,Balingen,48.2731,8.8506,Germany,Baden-Württemberg,100,12
+1276001596,Crailsheim,49.1347,10.0706,Germany,Baden-Württemberg,100,80
+1276241010,Biberach,48.0981,9.7886,Germany,Baden-Württemberg,25,1
+1276547516,Rheinfelden (Baden),47.5611,7.7917,Germany,Baden-Württemberg,100,34
+1276549799,Herrenberg,48.5967,8.8708,Germany,Baden-Württemberg,100,17
+1276934854,Radolfzell am Bodensee,47.7369,8.9697,Germany,Baden-Württemberg,50,32
+1276439955,Weil am Rhein,47.5947,7.6108,Germany,Baden-Württemberg,100,53
+1276552610,Gaggenau,48.8039,8.3194,Germany,Baden-Württemberg,100,83
+1276638008,Bretten,49.0364,8.7061,Germany,Baden-Württemberg,100,92
+1276306973,Vaihingen an der Enz,48.9328,8.9564,Germany,Baden-Württemberg,25,4
+1276828910,Winnenden,48.8764,9.3978,Germany,Baden-Württemberg,50,49
+1276639756,Bühl,48.6953,8.135,Germany,Baden-Württemberg,50,43
+1276708263,Emmendingen,48.1214,7.8492,Germany,Baden-Württemberg,25,11
+1276183243,Geislingen an der Steige,48.6244,9.8306,Germany,Baden-Württemberg,25,19
+1276081089,Leimen,49.3481,8.6911,Germany,Baden-Württemberg,50,37
+1276473184,Wiesloch,49.2942,8.6983,Germany,Baden-Württemberg,25,16
+1276644905,Neckarsulm,49.1917,9.2244,Germany,Baden-Württemberg,50,15
+1276638340,Wangen im Allgäu,47.6858,9.8342,Germany,Baden-Württemberg,50,32
+1276456440,Mühlacker,48.95,8.8392,Germany,Baden-Württemberg,25,10
+1276432627,Ehingen an der Donau,48.2833,9.7236,Germany,Baden-Württemberg,100,47
+1276045216,Achern,48.6314,8.0739,Germany,Baden-Württemberg,50,15
+1276272726,Ditzingen,48.8264,9.0667,Germany,Baden-Württemberg,50,47
+1276117708,Rottweil,48.1681,8.6247,Germany,Baden-Württemberg,100,51
+1276353248,Horb am Neckar,48.445,8.6911,Germany,Baden-Württemberg,100,79
+1276641265,Öhringen,49.2,9.5,Germany,Baden-Württemberg,25,6
+1276011078,Waldshut-Tiengen,47.6231,8.2144,Germany,Baden-Württemberg,50,15
+1276714498,Bad Mergentheim,49.5,9.7667,Germany,Baden-Württemberg,25,18
+1276416126,Calw,48.7144,8.7375,Germany,Baden-Württemberg,100,6
+1276659317,Mosbach,49.35,9.1333,Germany,Baden-Württemberg,100,78
+1276092007,Freudenstadt,48.4633,8.4111,Germany,Baden-Württemberg,50,5
+1276589635,Leutkirch im Allgäu,47.8256,10.0222,Germany,Baden-Württemberg,100,70
+1276150823,Wertheim,49.75,9.5167,Germany,Baden-Württemberg,100,59
+1276778071,Überlingen,47.7667,9.1583,Germany,Baden-Württemberg,100,26
+1276107502,Donaueschingen,47.9531,8.5033,Germany,Baden-Württemberg,100,75
+1276043043,Metzingen,48.5367,9.2858,Germany,Baden-Württemberg,25,10
+1276003982,Laupheim,48.2289,9.8797,Germany,Baden-Württemberg,50,2
+1276622142,Nagold,48.5519,8.7256,Germany,Baden-Württemberg,25,18
+1276516691,Schwetzingen,49.3833,8.5667,Germany,Baden-Württemberg,25,25
+1276940967,Hockenheim,49.3181,8.5472,Germany,Baden-Württemberg,100,23
+1276926019,Waldkirch,48.0939,7.9608,Germany,Baden-Württemberg,25,6
+1276267974,Eislingen,48.6933,9.7067,Germany,Baden-Württemberg,50,45
+1276844300,Eppingen,49.1333,8.9167,Germany,Baden-Württemberg,100,86
+1276726877,Bad Rappenau,49.2389,9.1028,Germany,Baden-Württemberg,50,45
+1276492911,Schramberg,48.2269,8.3842,Germany,Baden-Württemberg,100,40
+1276002094,Waghäusel,49.25,8.5169,Germany,Baden-Württemberg,25,9
+1276144443,Gerlingen,48.8,9.0653,Germany,Baden-Württemberg,25,21
+1276236369,Mössingen,48.4064,9.0575,Germany,Baden-Württemberg,100,51
+1276087969,Korntal-Münchingen,48.8306,9.1214,Germany,Baden-Württemberg,50,7
+1276818086,Bad Waldsee,47.9211,9.7519,Germany,Baden-Württemberg,100,98
+1276739886,Oberkirch,48.5322,8.0786,Germany,Baden-Württemberg,50,15
+1276964772,Bad Krozingen,47.9181,7.7025,Germany,Baden-Württemberg,50,20
+1276782990,Giengen an der Brenz,48.6217,10.245,Germany,Baden-Württemberg,50,38
+1276002233,Schopfheim,47.6494,7.8247,Germany,Baden-Württemberg,50,50
+1276534554,Weil der Stadt,48.7508,8.8706,Germany,Baden-Württemberg,100,3
+1276884131,Hechingen,48.3517,8.9633,Germany,Baden-Württemberg,50,27
+1276775320,Tettnang,47.6708,9.5875,Germany,Baden-Württemberg,100,89
+1276925185,Müllheim,47.8083,7.6308,Germany,Baden-Württemberg,25,18
+1276393885,Pfullingen,48.4656,9.2261,Germany,Baden-Württemberg,50,11
+1276122703,Renningen,48.7661,8.9347,Germany,Baden-Württemberg,50,7
+1276974738,Buchen in Odenwald,49.5217,9.3233,Germany,Baden-Württemberg,25,13
+1276877057,Bad Säckingen,47.5533,7.9472,Germany,Baden-Württemberg,100,67
+1276408904,Wendlingen am Neckar,48.6747,9.3817,Germany,Baden-Württemberg,50,4
+1276343997,Trossingen,48.0756,8.6361,Germany,Baden-Württemberg,50,46
+1276579491,Sigmaringen,48.0867,9.2164,Germany,Baden-Württemberg,100,30
+1276190104,Stockach,47.8514,9.0114,Germany,Baden-Württemberg,100,56
+1276489568,Eggenstein-Leopoldshafen,49.0778,8.3925,Germany,Baden-Württemberg,25,3
+1276056473,Freiberg am Neckar,48.9347,9.1917,Germany,Baden-Württemberg,25,24
+1276176133,Marbach am Neckar,48.9406,9.2575,Germany,Baden-Württemberg,100,79
+1276363194,Brackenheim,49.0833,9.0667,Germany,Baden-Württemberg,25,0
+1276002664,Walldorf,49.3,8.65,Germany,Baden-Württemberg,100,16
+1276169005,Sandhausen,49.3439,8.6581,Germany,Baden-Württemberg,50,46
+1276554005,Ebersbach an der Fils,48.7147,9.5236,Germany,Baden-Württemberg,25,20
+1276880866,Breisach am Rhein,48.0289,7.58,Germany,Baden-Württemberg,50,19
+1276921571,Plochingen,48.7117,9.4164,Germany,Baden-Württemberg,50,38
+1276030397,Grenzach-Wyhlen,47.5517,7.6592,Germany,Baden-Württemberg,100,11
+1276886758,Brühl,49.4,8.5353,Germany,Baden-Württemberg,50,35
+1276563190,Künzelsau,49.2833,9.6833,Germany,Baden-Württemberg,50,11
+1276514747,Schriesheim,49.4736,8.6592,Germany,Baden-Württemberg,100,100
+1276345648,Langenau,48.4994,10.1211,Germany,Baden-Württemberg,100,16
+1276673287,Edingen-Neckarhausen,49.4469,8.6094,Germany,Baden-Württemberg,100,62
+1276236194,Markgröningen,48.9047,9.0808,Germany,Baden-Württemberg,25,24
+1276901108,Uhingen,48.7058,9.5919,Germany,Baden-Württemberg,100,20
+1276981496,Malsch,48.8808,8.3342,Germany,Baden-Württemberg,50,45
+1276243830,Bad Wurzach,47.9094,9.8994,Germany,Baden-Württemberg,100,33
+1276018769,Lauda-Königshofen,49.5686,9.7039,Germany,Baden-Württemberg,50,21
+1276633374,Baiersbronn,48.5058,8.3711,Germany,Baden-Württemberg,25,7
+1276456342,Eberbach,49.4667,8.9833,Germany,Baden-Württemberg,25,10
+1276744650,Gernsbach,48.7633,8.3342,Germany,Baden-Württemberg,100,58
+1276411655,Münsingen,48.4128,9.4953,Germany,Baden-Württemberg,50,14
+1276086137,Markdorf,47.7208,9.3917,Germany,Baden-Württemberg,100,90
+1276127515,Denzlingen,48.0683,7.8825,Germany,Baden-Württemberg,50,26
+1276660837,Sankt Leon-Rot,49.2653,8.5986,Germany,Baden-Württemberg,100,47
+1276873434,Murrhardt,48.9794,9.5783,Germany,Baden-Württemberg,50,3
+1276817029,Isny im Allgäu,47.6919,10.0394,Germany,Baden-Württemberg,50,13
+1276203630,Tamm,48.9217,9.1206,Germany,Baden-Württemberg,25,1
+1276703274,Holzgerlingen,48.6392,9.0108,Germany,Baden-Württemberg,100,37
+1276323112,Meckenbeuren,47.7,9.5625,Germany,Baden-Württemberg,100,68
+1276006660,Philippsburg,49.2369,8.4547,Germany,Baden-Württemberg,25,16
+1276103353,Neckargemünd,49.3939,8.7975,Germany,Baden-Württemberg,25,15
+1276488091,Spaichingen,48.0758,8.7378,Germany,Baden-Württemberg,50,21
+1276634303,Erbach,48.3281,9.8878,Germany,Baden-Württemberg,100,40
+1276445594,Ettenheim,48.2556,7.8119,Germany,Baden-Württemberg,100,95
+1276345734,Pfullendorf,47.9242,9.2567,Germany,Baden-Württemberg,100,12
+1276661701,Ketsch,49.3658,8.5336,Germany,Baden-Württemberg,50,16
+1276778010,Bad Dürrheim,48.0167,8.5333,Germany,Baden-Württemberg,100,96
+1276432205,Wehr,47.6331,7.9042,Germany,Baden-Württemberg,25,17
+1276040712,Wernau,48.6886,9.4222,Germany,Baden-Württemberg,50,50
+1276697756,Tauberbischofsheim,49.6225,9.6628,Germany,Baden-Württemberg,100,56
+1276116472,Dossenheim,49.4492,8.6722,Germany,Baden-Württemberg,100,18
+1276999466,Ubstadt-Weiher,49.1656,8.625,Germany,Baden-Württemberg,100,55
+1276386454,Besigheim,48.9989,9.1414,Germany,Baden-Württemberg,50,12
+1276429859,Friesenheim,48.3731,7.8833,Germany,Baden-Württemberg,100,90
+1276327261,Herbrechtingen,48.6253,10.1739,Germany,Baden-Württemberg,100,91
+1276810660,Östringen,49.2194,8.7108,Germany,Baden-Württemberg,50,16
+1276384519,Sankt Georgen im Schwarzwald,48.1247,8.3308,Germany,Baden-Württemberg,50,25
+1276500222,Oftersheim,49.3706,8.5847,Germany,Baden-Württemberg,50,24
+1276667329,Gärtringen,48.6408,8.9006,Germany,Baden-Württemberg,100,8
+1276634003,Weinsberg,49.1519,9.2858,Germany,Baden-Württemberg,50,37
+1276078759,Hemsbach,49.5903,8.6564,Germany,Baden-Württemberg,25,14
+1276361118,Neuhausen auf den Fildern,48.6844,9.2744,Germany,Baden-Württemberg,25,16
+1276507113,Bretzfeld,49.1833,9.4333,Germany,Baden-Württemberg,100,22
+1276793728,Steinheim am der Murr,48.9667,9.2833,Germany,Baden-Württemberg,100,24
+1276416917,Bad Urach,48.4932,9.3989,Germany,Baden-Württemberg,50,10
+1276939647,Blaubeuren,48.4119,9.785,Germany,Baden-Württemberg,100,25
+1276349542,Niefern-Öschelbronn,48.9164,8.7842,Germany,Baden-Württemberg,25,23
+1276764193,Durmersheim,48.9383,8.2769,Germany,Baden-Württemberg,25,18
+1276955602,Graben-Neudorf,49.1592,8.4894,Germany,Baden-Württemberg,50,12
+1276133236,Rielasingen-Worblingen,47.7347,8.8401,Germany,Baden-Württemberg,100,44
+1276286003,Neuenburg am Rhein,47.8147,7.5619,Germany,Baden-Württemberg,50,48
+1276353037,Möglingen,48.8883,9.1292,Germany,Baden-Württemberg,25,18
+1276046048,Gundelfingen,48.0425,7.8657,Germany,Baden-Württemberg,25,14
+1276239131,Sulz am Neckar,48.3628,8.6317,Germany,Baden-Württemberg,50,23
+1276711820,Teningen,48.1269,7.8103,Germany,Baden-Württemberg,25,13
+1276190557,Heddesheim,49.5053,8.6033,Germany,Baden-Württemberg,100,46
+1276001947,Titisee-Neustadt,47.9122,8.2147,Germany,Baden-Württemberg,50,26
+1276324506,Leutenbach,48.8883,9.3914,Germany,Baden-Württemberg,100,48
+1276585901,Linkenheim-Hochstetten,49.1261,8.41,Germany,Baden-Württemberg,50,19
+1276657591,Gaildorf,49,9.7667,Germany,Baden-Württemberg,25,8
+1276159850,Burladingen,48.2903,9.1094,Germany,Baden-Württemberg,100,97
+1276291281,Laichingen,48.4897,9.6861,Germany,Baden-Württemberg,100,77
+1276967594,Nußloch,49.3236,8.6939,Germany,Baden-Württemberg,50,12
+1276145495,Lauffen am Neckar,49.0764,9.1567,Germany,Baden-Württemberg,50,20
+1276325701,Schwieberdingen,48.8778,9.075,Germany,Baden-Württemberg,50,20
+1276610621,Ladenburg,49.4719,8.6092,Germany,Baden-Württemberg,100,95
+1276343480,Leingarten,49.15,9.1167,Germany,Baden-Württemberg,100,92
+1276329387,Denkendorf,48.6958,9.3175,Germany,Baden-Württemberg,50,31
+1276683621,Korb,48.8417,9.3611,Germany,Baden-Württemberg,25,10
+1276407317,Bopfingen,48.8569,10.3522,Germany,Baden-Württemberg,100,27
+1276428146,Sinzheim,48.7619,8.1669,Germany,Baden-Württemberg,100,79
+1276822325,Gerstetten,48.6225,10.0206,Germany,Baden-Württemberg,100,82
+1276247117,Eningen unter Achalm,48.4831,9.2522,Germany,Baden-Württemberg,100,70
+1276269287,Rudersberg,48.8856,9.5281,Germany,Baden-Württemberg,25,2
+1276311065,Schwaigern,49.1333,9.05,Germany,Baden-Württemberg,25,6
+1276425115,Walldürn,49.5831,9.3681,Germany,Baden-Württemberg,50,1
+1276637060,Rutesheim,48.8097,8.945,Germany,Baden-Württemberg,100,94
+1276702024,Rheinau,48.6678,7.9347,Germany,Baden-Württemberg,100,20
+1276993241,Plankstadt,49.3933,8.5942,Germany,Baden-Württemberg,100,60
+1276052458,Karlsdorf-Neuthard,49.1364,8.5439,Germany,Baden-Württemberg,25,1
+1276045821,Welzheim,48.8747,9.6344,Germany,Baden-Württemberg,50,33
+1276014009,Schönaich,48.6569,9.0628,Germany,Baden-Württemberg,50,8
+1276610094,Herbolzheim,48.2219,7.7775,Germany,Baden-Württemberg,50,9
+1276945487,Oberderdingen,49.0625,8.8019,Germany,Baden-Württemberg,25,4
+1276178171,Lorch,48.7983,9.6883,Germany,Baden-Württemberg,50,35
+1276476754,Gottmadingen,47.7356,8.7767,Germany,Baden-Württemberg,100,9
+1276878570,Altensteig,48.5864,8.6047,Germany,Baden-Württemberg,25,21
+1276876267,Süßen,48.6797,9.7575,Germany,Baden-Württemberg,25,18
+1276029380,Donzdorf,48.6833,9.8167,Germany,Baden-Württemberg,50,44
+1276209924,Engen,47.8528,8.7714,Germany,Baden-Württemberg,25,7
+1276902316,Ilvesheim,49.4725,8.5675,Germany,Baden-Württemberg,25,5
+1276014784,Weingarten,49.0514,8.5306,Germany,Baden-Württemberg,50,6
+1276522466,Haigerloch,48.3647,8.805,Germany,Baden-Württemberg,25,4
+1276150050,Meßstetten,48.1806,8.9625,Germany,Baden-Württemberg,100,46
+1276313867,Birkenfeld,48.8697,8.6361,Germany,Baden-Württemberg,50,3
+1276029285,Köngen,48.6819,9.3667,Germany,Baden-Württemberg,100,74
+1276567884,Riedlingen,48.1553,9.4728,Germany,Baden-Württemberg,50,29
+1276869346,Weilheim an der Teck,48.615,9.5386,Germany,Baden-Württemberg,25,16
+1276074686,Appenweier,48.5397,7.98,Germany,Baden-Württemberg,25,11
+1276194197,Schwaikheim,48.8714,9.3531,Germany,Baden-Württemberg,50,15
+1276069994,Mörlenbach,49.599,8.7369,Germany,Baden-Württemberg,25,7
+1276376071,Weil im Schönbuch,48.6214,9.0611,Germany,Baden-Württemberg,25,15
+1276757079,Neuenstadt am Kocher,49.2333,9.3333,Germany,Baden-Württemberg,50,21
+1276334266,Kenzingen,48.1917,7.7683,Germany,Baden-Württemberg,100,47
+1276668317,Aulendorf,47.9542,9.6389,Germany,Baden-Württemberg,25,6
+1276050894,Königsbach-Stein,48.9664,8.6089,Germany,Baden-Württemberg,100,25
+1276548951,Kirchzarten,47.9667,7.95,Germany,Baden-Württemberg,50,27
+1276179914,Dettingen an der Erms,48.53,9.3472,Germany,Baden-Württemberg,50,17
+1276245097,Aich,48.6228,9.2372,Germany,Baden-Württemberg,25,4
+1276097407,Pliezhausen,48.5586,9.2058,Germany,Baden-Württemberg,50,26
+1276597549,Steinen,47.6453,7.7403,Germany,Baden-Württemberg,100,72
+1276603722,Wildberg,48.6239,8.7472,Germany,Baden-Württemberg,100,85
+1276268293,Blumberg,47.8392,8.5342,Germany,Baden-Württemberg,25,22
+1276260316,Bad Wildbad,48.7503,8.5506,Germany,Baden-Württemberg,100,73
+1276429606,Willstätt,48.5417,7.8964,Germany,Baden-Württemberg,50,28
+1276943465,Magstadt,48.7422,8.965,Germany,Baden-Württemberg,50,26
+1276568606,Heubach,48.7833,9.9333,Germany,Baden-Württemberg,25,6
+1276286737,Oberhausen-Rheinhausen,49.2606,8.485,Germany,Baden-Württemberg,100,43
+1276073963,Mengen,48.0497,9.33,Germany,Baden-Württemberg,100,9
+1276458359,Frickenhausen,48.5928,9.3611,Germany,Baden-Württemberg,100,89
+1276001221,Ilsfeld,49.05,9.25,Germany,Baden-Württemberg,25,8
+1276138487,Bad Liebenzell,48.7742,8.7314,Germany,Baden-Württemberg,100,50
+1276728589,Plüderhausen,48.795,9.6011,Germany,Baden-Württemberg,50,22
+1276249860,Bisingen,48.3119,8.9178,Germany,Baden-Württemberg,100,49
+1276629801,Ehningen,48.6589,8.9403,Germany,Baden-Württemberg,100,97
+1276001115,Reichenbach an der Fils,48.71,9.4661,Germany,Baden-Württemberg,25,10
+1276119838,Gomaringen,48.4519,9.0997,Germany,Baden-Württemberg,25,25
+1276997920,Rauenberg,49.2678,8.7036,Germany,Baden-Württemberg,100,35
+1276260465,Dielheim,49.2825,8.7347,Germany,Baden-Württemberg,50,26
+1276283641,Laufenburg (Baden),47.5656,8.0647,Germany,Baden-Württemberg,50,7
+1276002867,Aidlingen,48.6792,8.8969,Germany,Baden-Württemberg,25,5
+1276090389,Pfedelbach,49.175,9.5056,Germany,Baden-Württemberg,50,43
+1276180422,Edingerhof,49.4483,8.6121,Germany,Baden-Württemberg,100,20
+1276165057,Urbach,48.8133,9.5789,Germany,Baden-Württemberg,100,59
+1276132141,Furtwangen im Schwarzwald,48.0503,8.2092,Germany,Baden-Württemberg,50,47
+1276612974,Kressbronn am Bodensee,47.5958,9.6,Germany,Baden-Württemberg,100,67
+1276219486,Kißlegg,47.79,9.8842,Germany,Baden-Württemberg,100,37
+1276928543,Mühlhausen,49.2475,8.7239,Germany,Baden-Württemberg,100,20
+1276938935,Waldenbuch,48.6372,9.1317,Germany,Baden-Württemberg,25,25
+1276059571,Ochsenhausen,48.0722,9.9481,Germany,Baden-Württemberg,100,21
+1276384055,Kusterdingen,48.5222,9.1208,Germany,Baden-Württemberg,25,0
+1276432294,Salach,48.6889,9.7358,Germany,Baden-Württemberg,25,7
+1276692522,Nordheim,49.1167,9.1333,Germany,Baden-Württemberg,50,28
+1276881310,Hilzingen,47.7653,8.7844,Germany,Baden-Württemberg,50,18
+1276967245,Bad Schussenried,48.0067,9.6586,Germany,Baden-Württemberg,25,21
+1276002930,Großbottwar,49.0014,9.2931,Germany,Baden-Württemberg,25,6
+1276766634,Efringen-Kirchen,47.6556,7.5658,Germany,Baden-Württemberg,50,25
+1276343288,Uhldingen-Mühlhofen,47.7333,9.2458,Germany,Baden-Württemberg,50,20
+1276592459,Dornstadt,48.4692,9.9417,Germany,Baden-Württemberg,100,89
+1276892297,Kuppenheim,48.8275,8.2544,Germany,Baden-Württemberg,100,47
+1276650269,Forst,49.1533,8.5842,Germany,Baden-Württemberg,25,8
+1276306013,Hemmingen,48.8661,9.0319,Germany,Baden-Württemberg,25,8
+1276634395,Steinheim am Albuch,48.6922,10.0642,Germany,Baden-Württemberg,25,7
+1276135697,Untergruppenbach,49.0833,9.2667,Germany,Baden-Württemberg,50,4
+1276672337,Bühlertal,48.6933,8.1786,Germany,Baden-Württemberg,100,30
+1276961822,Staufen im Breisgau,47.8814,7.7314,Germany,Baden-Württemberg,25,18
+1276541566,Meßkirch,47.9928,9.1125,Germany,Baden-Württemberg,50,23
+1276032527,Neuenbürg,48.8461,8.5889,Germany,Baden-Württemberg,25,17
+1276002427,Aspach,48.9667,9.3975,Germany,Baden-Württemberg,100,52
+1276845983,Bönnigheim,49.0408,9.095,Germany,Baden-Württemberg,100,5
+1276010823,Oberstenfeld,49.0239,9.3194,Germany,Baden-Württemberg,100,23
+1276163938,Dornstetten,48.47,8.4994,Germany,Baden-Württemberg,100,11
+1276847947,Kandern,47.7144,7.6608,Germany,Baden-Württemberg,25,15
+1276528069,Althengstett,48.7233,8.7939,Germany,Baden-Württemberg,50,7
+1276093094,Knittlingen,49.0239,8.7569,Germany,Baden-Württemberg,50,35
+1276269840,Hohberg,48.4239,7.9083,Germany,Baden-Württemberg,50,5
+1276476250,Zell am Harmersbach,48.3467,8.0639,Germany,Baden-Württemberg,25,12
+1276770449,Lauchringen,47.6306,8.3044,Germany,Baden-Württemberg,50,18
+1276242811,Deizisau,48.7133,9.3892,Germany,Baden-Württemberg,25,13
+1276533939,Möckmühl,49.3167,9.35,Germany,Baden-Württemberg,100,98
+1276678198,Oberkochen,48.7839,10.1053,Germany,Baden-Württemberg,25,24
+1276528105,Langenargen,47.6,9.5417,Germany,Baden-Württemberg,25,15
+1276989547,Schömberg,48.7867,8.6442,Germany,Baden-Württemberg,25,17
+1276660530,Bad Herrenalb,48.8006,8.4408,Germany,Baden-Württemberg,50,2
+1276807936,Winterbach,48.7992,9.48,Germany,Baden-Württemberg,50,6
+1276749683,Reilingen,49.2947,8.5692,Germany,Baden-Württemberg,100,71
+1276988797,Neresheim,48.7542,10.3344,Germany,Baden-Württemberg,50,11
+1276533698,Illingen,48.9553,8.9189,Germany,Baden-Württemberg,50,17
+1276003064,Hüfingen,47.9261,8.49,Germany,Baden-Württemberg,25,14
+1276705156,Aldingen,48.0944,8.7058,Germany,Baden-Württemberg,100,88
+1276654774,Flein,49.1,9.2167,Germany,Baden-Württemberg,25,6
+1276087565,Weissach,48.8481,8.9203,Germany,Baden-Württemberg,25,17
+1276325153,Benningen am Neckar,48.945,9.2425,Germany,Baden-Württemberg,50,41
+1276473515,Löffingen,47.8839,8.3436,Germany,Baden-Württemberg,50,42
+1276249430,Altbach,48.7239,9.3797,Germany,Baden-Württemberg,25,23
+1276453890,Baienfurt,47.8269,9.6517,Germany,Baden-Württemberg,50,4
+1276487458,Bad Wimpfen,49.2306,9.1631,Germany,Baden-Württemberg,100,64
+1276636887,Renchen,48.5858,8.0106,Germany,Baden-Württemberg,100,53
+1276449893,Schutterwald,48.4583,7.8831,Germany,Baden-Württemberg,50,10
+1276152923,Loßburg,48.4111,8.4514,Germany,Baden-Württemberg,100,94
+1276378434,Abtsgmünd,48.8942,10.0039,Germany,Baden-Württemberg,100,82
+1276244529,Albbruck,47.5892,8.1292,Germany,Baden-Württemberg,50,25
+1276600823,Haslach im Kinzigtal,48.2778,8.0869,Germany,Baden-Württemberg,100,98
+1276032630,Gundelsheim,49.2833,9.1667,Germany,Baden-Württemberg,100,86
+1276784958,Waldstetten,48.7667,9.8203,Germany,Baden-Württemberg,50,23
+1276859303,Weikersheim,49.4817,9.8992,Germany,Baden-Württemberg,50,25
+1276388618,Mutlangen,48.8228,9.7947,Germany,Baden-Württemberg,50,7
+1276633223,Murr,48.9636,9.2589,Germany,Baden-Württemberg,25,11
+1276884818,Murg,47.5547,8.0242,Germany,Baden-Württemberg,100,76
+1276839809,Allensbach,47.7153,9.0714,Germany,Baden-Württemberg,50,20
+1276906927,Elzach,48.1747,8.0717,Germany,Baden-Württemberg,25,21
+1276446086,Pfalzgrafenweiler,48.5283,8.5678,Germany,Baden-Württemberg,100,13
+1276770766,Königsbronn,48.7428,10.1136,Germany,Baden-Württemberg,100,50
+1276033999,Immenstaad am Bodensee,47.6667,9.3667,Germany,Baden-Württemberg,100,41
+1276853015,Wolfschlugen,48.6531,9.2889,Germany,Baden-Württemberg,25,24
+1276833195,Steinenbronn,48.6647,9.1225,Germany,Baden-Württemberg,50,20
+1276962324,Neckartenzlingen,48.5892,9.2461,Germany,Baden-Württemberg,100,53
+1276965866,Merzhausen,47.9664,7.8286,Germany,Baden-Württemberg,50,38
+1276148569,Alfdorf,48.8453,9.7189,Germany,Baden-Württemberg,100,16
+1276000529,Bammental,49.3508,8.7758,Germany,Baden-Württemberg,25,22
+1276815356,Wiernsheim,48.89,8.8506,Germany,Baden-Württemberg,50,1
+1276237716,Eberdingen,48.8794,8.9653,Germany,Baden-Württemberg,100,42
+1276572579,Dietenheim,48.2119,10.0733,Germany,Baden-Württemberg,25,18
+1276790713,Bonndorf im Schwarzwald,47.8194,8.3431,Germany,Baden-Württemberg,25,20
+1276363091,Wüstenrot,49.0833,9.4667,Germany,Baden-Württemberg,25,15
+1276427856,Schelklingen,48.3756,9.7325,Germany,Baden-Württemberg,50,35
+1276094005,Laudenbach,49.6114,8.65,Germany,Baden-Württemberg,50,47
+1276484629,Pleidelsheim,48.9614,9.2042,Germany,Baden-Württemberg,25,4
+1276764435,Schwendi,48.1756,9.9758,Germany,Baden-Württemberg,50,33
+1276002659,Wutöschingen,47.6636,8.3689,Germany,Baden-Württemberg,50,8
+1276527728,Maulbronn,49.0003,8.8108,Germany,Baden-Württemberg,50,12
+1276819839,Bietigheim,48.9103,8.2531,Germany,Baden-Württemberg,25,19
+1276321764,Ostrach,47.9525,9.3814,Germany,Baden-Württemberg,50,24
+1276661472,Heitersheim,47.8753,7.6547,Germany,Baden-Württemberg,100,18
+1276676929,Untergrombach,49.0865,8.5542,Germany,Baden-Württemberg,50,29
+1276034220,Ispringen,48.9158,8.6708,Germany,Baden-Württemberg,25,2
+1276005234,Oedheim,49.2333,9.25,Germany,Baden-Württemberg,25,10
+1276187264,Hardheim,49.6106,9.4739,Germany,Baden-Württemberg,25,21
+1276744847,Güglingen,49.0667,9,Germany,Baden-Württemberg,50,30
+1276427047,Muggensturm,48.8725,8.2794,Germany,Baden-Württemberg,25,24
+1276977191,Boxberg,49.4814,9.6417,Germany,Baden-Württemberg,25,20
+1276896546,Ilshofen,49.1703,9.9203,Germany,Baden-Württemberg,100,16
+1276972930,Dußlingen,48.4506,9.0606,Germany,Baden-Württemberg,50,25
+1276191875,Neuenstein,49.2,9.5833,Germany,Baden-Württemberg,25,18
+1276718584,Neuffen,48.5544,9.3756,Germany,Baden-Württemberg,100,71
+1276012874,Osterburken,49.4308,9.4261,Germany,Baden-Württemberg,25,3
+1276748118,Kirchheim am Neckar,49.0439,9.1464,Germany,Baden-Württemberg,100,19
+1276579101,Ottersweier,48.6711,8.1108,Germany,Baden-Württemberg,100,69
+1276782860,Dettingen unter Teck,48.6161,9.4517,Germany,Baden-Württemberg,100,80
+1276868250,Altlußheim,49.2997,8.5,Germany,Baden-Württemberg,100,54
+1276569928,Schallstadt,47.9581,7.7503,Germany,Baden-Württemberg,100,75
+1276966044,Zell im Wiesental,47.7069,7.8514,Germany,Baden-Württemberg,50,11
+1276357023,Winterlingen,48.1797,9.1153,Germany,Baden-Württemberg,100,70
+1276473331,Rosenfeld,48.2864,8.7242,Germany,Baden-Württemberg,50,24
+1276069177,Essingen,48.8083,10.0278,Germany,Baden-Württemberg,25,7
+1276779548,Umkirch,48.0328,7.7636,Germany,Baden-Württemberg,50,17
+1276978706,Nufringen,48.6222,8.8875,Germany,Baden-Württemberg,100,12
+1276845905,Trochtelfingen,48.3081,9.2444,Germany,Baden-Württemberg,25,10
+1276654199,Beilstein,49.0333,9.3167,Germany,Baden-Württemberg,50,44
+1276612304,Gammertingen,48.2494,9.2175,Germany,Baden-Württemberg,25,3
+1276526391,Meersburg,47.6958,9.2708,Germany,Baden-Württemberg,25,19
+1276233518,Dunningen,48.2114,8.5072,Germany,Baden-Württemberg,25,11
+1276241784,Hüttlingen,48.8928,10.1006,Germany,Baden-Württemberg,100,79
+1276724149,Zimmern ob Rottweil,48.1681,8.5911,Germany,Baden-Württemberg,50,40
+1276366957,Kappelrodeck,48.5911,8.1175,Germany,Baden-Württemberg,100,23
+1276323724,Alpirsbach,48.3461,8.4039,Germany,Baden-Württemberg,25,9
+1276911809,Oberboihingen,48.6469,9.3667,Germany,Baden-Württemberg,50,12
+1276883185,Kronau,49.22,8.6339,Germany,Baden-Württemberg,25,4
+1276015128,Ihringen,48.0431,7.6475,Germany,Baden-Württemberg,100,4
+1276992984,Bondorf,48.5167,8.8333,Germany,Baden-Württemberg,100,20
+1276015229,Immendingen,47.94,8.7331,Germany,Baden-Württemberg,25,22
+1276293509,Deißlingen,48.1133,8.6061,Germany,Baden-Württemberg,25,6
+1276163196,Nattheim,48.6992,10.2414,Germany,Baden-Württemberg,25,0
+1276943361,Kuchen,48.6392,9.7992,Germany,Baden-Württemberg,100,0
+1276142414,Wannweil,48.5147,9.1508,Germany,Baden-Württemberg,50,15
+1276524264,Geisingen,47.9222,8.6464,Germany,Baden-Württemberg,50,23
+1276329350,Kupferzell,49.2333,9.6833,Germany,Baden-Württemberg,25,22
+1276731527,Rechberghausen,48.7306,9.6397,Germany,Baden-Württemberg,50,2
+1276962198,Bodelshausen,48.3942,8.9725,Germany,Baden-Württemberg,50,35
+1276489312,Kirchardt,49.2,8.9833,Germany,Baden-Württemberg,50,6
+1276792509,Westhausen,48.8839,10.1864,Germany,Baden-Württemberg,100,70
+1276823925,Königsfeld im Schwarzwald,48.1383,8.4214,Germany,Baden-Württemberg,100,52
+1276325291,Dornhan,48.3494,8.5122,Germany,Baden-Württemberg,50,21
+1276033407,Kirchentellinsfurt,48.5311,9.1483,Germany,Baden-Württemberg,50,29
+1276159978,Löchgau,49.0017,9.1083,Germany,Baden-Württemberg,25,20
+1276649028,Mainhardt,49.0833,9.55,Germany,Baden-Württemberg,100,27
+1276367378,Niedereschach,48.1317,8.5272,Germany,Baden-Württemberg,25,12
+1276196373,Baltmannsweiler,48.7433,9.4492,Germany,Baden-Württemberg,25,19
+1276407524,Geislingen,48.2875,8.8125,Germany,Baden-Württemberg,100,69
+1276610225,Sersheim,48.9617,9.0139,Germany,Baden-Württemberg,25,6
+1276559958,Hambrücken,49.1861,8.5439,Germany,Baden-Württemberg,25,24
+1276941818,Billigheim,49.3478,9.2544,Germany,Baden-Württemberg,100,58
+1276102566,Haiterbach,48.5244,8.6503,Germany,Baden-Württemberg,100,90
+1276124300,Wolfach,48.2994,8.2228,Germany,Baden-Württemberg,50,28
+1276001334,Hausach,48.2853,8.1797,Germany,Baden-Württemberg,25,10
+1276625498,Dettenhausen,48.6075,9.1006,Germany,Baden-Württemberg,25,1
+1276097897,Bräunlingen,47.9297,8.4481,Germany,Baden-Württemberg,100,38
+1276358841,Waibstadt,49.2975,8.92,Germany,Baden-Württemberg,100,35
+1276878113,Neubulach,48.6611,8.6967,Germany,Baden-Württemberg,25,9
+1276570346,Kippenheim,48.2947,7.8214,Germany,Baden-Württemberg,50,8
+1276399240,Schliengen,47.7556,7.5772,Germany,Baden-Württemberg,25,12
+1276175014,Schrozberg,49.3444,9.9806,Germany,Baden-Württemberg,100,28
+1276479479,Tiefenbronn,48.8242,8.8003,Germany,Baden-Württemberg,100,12
+1276595467,Erdmannhausen,48.9422,9.2956,Germany,Baden-Württemberg,100,24
+1276311996,Bötzingen,48.0769,7.7256,Germany,Baden-Württemberg,25,0
+1276700017,Sontheim an der Brenz,48.5523,10.291,Germany,Baden-Württemberg,50,7
+1276002966,Munderkingen,48.2353,9.6439,Germany,Baden-Württemberg,50,36
+1276001848,Satteldorf,49.1681,10.0808,Germany,Baden-Württemberg,25,6
+1276150411,Igersheim,49.4931,9.8167,Germany,Baden-Württemberg,50,30
+1276377994,Bad Boll,48.6394,9.6156,Germany,Baden-Württemberg,100,18
+1276980466,Sasbach,48.6383,8.0917,Germany,Baden-Württemberg,25,7
+1276080025,Böhmenkirch,48.6844,9.9339,Germany,Baden-Württemberg,100,5
+1276752846,Ingelfingen,49.3,9.65,Germany,Baden-Württemberg,25,7
+1276922913,Deggingen,48.5964,9.7192,Germany,Baden-Württemberg,100,88
+1276219039,Ertingen,48.1,9.4667,Germany,Baden-Württemberg,50,11
+1276767232,Heiningen,48.6619,9.6483,Germany,Baden-Württemberg,25,4
+1276124103,Meckesheim,49.3214,8.8153,Germany,Baden-Württemberg,50,27
+1276717681,Jestetten,47.6522,8.5708,Germany,Baden-Württemberg,100,14
+1276532864,Obrigheim,49.3522,9.0928,Germany,Baden-Württemberg,100,32
+1276727368,Warthausen,48.1267,9.7958,Germany,Baden-Württemberg,50,44
+1276006765,Erlenbach,49.17,9.2694,Germany,Baden-Württemberg,50,26
+1276107956,Horgenzell,47.8053,9.4981,Germany,Baden-Württemberg,100,98
+1276626572,Rangendingen,48.3811,8.8889,Germany,Baden-Württemberg,25,0
+1276917636,Sulzbach an der Murr,49.0044,9.5056,Germany,Baden-Württemberg,100,90
+1276830814,Rot am See,49.2508,10.0233,Germany,Baden-Württemberg,50,41
+1276070117,Hügelsheim,48.7972,8.1117,Germany,Baden-Württemberg,100,90
+1276446869,Baindt,47.8414,9.6619,Germany,Baden-Württemberg,25,9
+1276645643,Neudenau,49.2833,9.2667,Germany,Baden-Württemberg,50,16
+1276963736,Ofterdingen,48.4203,9.0319,Germany,Baden-Württemberg,25,8
+1276871953,Iffezheim,48.8206,8.1422,Germany,Baden-Württemberg,25,24
+1276826746,Gemmingen,49.15,8.9833,Germany,Baden-Württemberg,25,23
+1276569364,Heimsheim,48.8056,8.8619,Germany,Baden-Württemberg,25,13
+1276748330,Stühlingen,47.7453,8.4458,Germany,Baden-Württemberg,100,19
+1276541662,Neuhausen,48.7933,8.7786,Germany,Baden-Württemberg,50,38
+1276917476,Mahlberg,48.2869,7.8114,Germany,Baden-Württemberg,25,19
+1276577699,Ühlingen-Birkendorf,47.7194,8.3181,Germany,Baden-Württemberg,50,5
+1276933798,Blaufelden,49.2969,9.9719,Germany,Baden-Württemberg,100,71
+1276940591,Kappel-Grafenhausen,48.2922,7.7414,Germany,Baden-Württemberg,50,2
+1276136861,Wilhelmsdorf,47.865,9.4275,Germany,Baden-Württemberg,100,33
+1276087708,Sankt Johann,48.4528,9.3431,Germany,Baden-Württemberg,25,0
+1276130592,Forchtenberg,49.2833,9.5667,Germany,Baden-Württemberg,50,36
+1276739235,Külsheim,49.6694,9.5206,Germany,Baden-Württemberg,25,1
+1276406382,Obersontheim,49.0578,9.8967,Germany,Baden-Württemberg,50,18
+1276827379,Lenzkirch,47.8681,8.205,Germany,Baden-Württemberg,100,29
+1276693195,Lonsee,48.5433,9.9214,Germany,Baden-Württemberg,100,12
+1276255738,Krauchenwies,48.0169,9.2503,Germany,Baden-Württemberg,50,32

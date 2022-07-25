@@ -1,0 +1,19 @@
+﻿src,dest,relationship,distance
+Mannheim,Heidelberg,EROAD,18.8
+Mannheim,Heilbronn,EROAD,80.4
+Heidelberg,Heilbronn,EROAD,66.9
+Heidelberg,Karlsruhe,EROAD,55.1
+Heilbronn,Ludwigsburg,EROAD,37.7
+Heidelberg,Karlsruhe,EROAD,55.1
+Mannheim,Karlsruhe,EROAD,67.8
+Karlsruhe,Freiburg im Breisgau,EROAD,136
+Pforzheim,Karlsruhe,EROAD,29.2
+Pforzheim,Stuttgart,EROAD,44.8
+Ludwigsburg,Stuttgart,EROAD,15
+Reutlingen,Stuttgart,EROAD,39.7
+Pforzheim,Reutlingen,EROAD,74.7
+Stuttgart,Ulm,EROAD,92.8
+Reutlingen,Ulm,EROAD,77.1
+Freiburg im Breisgau,Pforzheim,EROAD,155
+Mannheim,Karlsruhe,EROAD,67.8
+Pforzheim,Ludwigsburg,EROAD,48.1
